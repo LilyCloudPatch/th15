@@ -1,0 +1,339 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/e07.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　永遠亭。"
+      ],
+      "translated_lines": [
+        "　　永远亭。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　迷いの竹林に存在する元月の民達の根城である。"
+      ],
+      "translated_lines": [
+        "　　存在于迷途竹林的原月之民们的根据地。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "永琳「騙すつもりは無かったのよ。"
+      ],
+      "translated_lines": [
+        "永琳「我本来也没打算骗你的哦。"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　本当の目的は月の都を救うため、って言わなかったのは"
+      ],
+      "translated_lines": [
+        "　　　真正的目的是为了拯救月之都，我没这么说是因为"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　　人間達に解決して貰うつもりだったからなの」"
+      ],
+      "translated_lines": [
+        "　　　本来打算请人类们来解决这件事的」"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "永琳「それに多くの月の民にもその事を知らせなかったし」"
+      ],
+      "translated_lines": [
+        "永琳「而且很多月之民也没有被通知这件事情」"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "鈴仙「そうみたいですね。"
+      ],
+      "translated_lines": [
+        "铃仙「看起来是这样的呢。"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　　サグメ様に聞きました」"
+      ],
+      "translated_lines": [
+        "　　　我从探女大人那听说了」"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "永琳「彼女に無事に会えたのね、良かったわ。"
+      ],
+      "translated_lines": [
+        "永琳「你平安地见到她了呢，真是太好了啊。"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "　　　彼女が聡い人で助かったわ」"
+      ],
+      "translated_lines": [
+        "　　　她是个很聪明的人所以帮了大忙呢」"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "鈴仙「まあ攻撃されましたけどね。熾烈な弾幕で」"
+      ],
+      "translated_lines": [
+        "铃仙「嘛虽然被攻击了呢。用炽烈的弹幕」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "鈴仙「そう、それで聞きたいことがあるのですが……」"
+      ],
+      "translated_lines": [
+        "铃仙「对了，话说回来我有想要问您的话……」"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "永琳「ええ、何を聞きたいかは判ります。"
+      ],
+      "translated_lines": [
+        "永琳「嗯，你想打听什么我已经明白了。"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "　　　純狐の事ですね？」"
+      ],
+      "translated_lines": [
+        "　　　是纯狐的事情吧？」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "永琳「彼女は月の都に住む、ある人を憎んでいるのです。"
+      ],
+      "translated_lines": [
+        "永琳「她憎恨着居住在月之都的，某个人。"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "　　　その理由は、ややこしい話なんですが……。"
+      ],
+      "translated_lines": [
+        "　　　憎恨的理由，虽然是个很复杂的故事……"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "　　　彼女の夫の妻がその人なんです」"
+      ],
+      "translated_lines": [
+        "　　　那个人是她的丈夫的妻子 」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "鈴仙「ん？　夫の妻？　自分自身なんじゃ？」"
+      ],
+      "translated_lines": [
+        "铃仙「嗯？丈夫的妻子？不就是她自己吗？」"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "永琳「その彼女の夫は、昔彼女の息子を殺した人物で、"
+      ],
+      "translated_lines": [
+        "永琳「她的丈夫是，曾经杀掉了她的孩子的人，"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "　　　その夫には復讐を果たして殺したんだけど」"
+      ],
+      "translated_lines": [
+        "　　　虽然她为了复仇将她的丈夫给杀掉了」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "鈴仙「夫が彼女の息子を？　どういうこと？」"
+      ],
+      "translated_lines": [
+        "铃仙「丈夫把她的孩子给？究竟是怎么一回事？」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "永琳「その夫の悪妻にして天賦の才を持っていたのが……"
+      ],
+      "translated_lines": [
+        "永琳「作为那个男人的坏妻子而且拥有着天赋的才能的是……"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "　　　嫦娥（じょうが）、その人よ」"
+      ],
+      "translated_lines": [
+        "　　　嫦娥，就是那个人哦」"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "鈴仙「え？　嫦娥様？　あの月の兎の支配者である……」"
+      ],
+      "translated_lines": [
+        "铃仙「诶？嫦娥大人？那个作为月兔的支配者的……」"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "永琳「純狐は嫦娥を強く憎んでいる。"
+      ],
+      "translated_lines": [
+        "永琳「纯狐强烈地憎恨着嫦娥。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　　しいては嫦娥を擁している月の民を憎んでいるの」"
+      ],
+      "translated_lines": [
+        "　　　由此而来她也憎恨起了拥戴嫦娥的月之民们」"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "永琳「月の都の侵略を試みては、知恵比べで追い払う。"
+      ],
+      "translated_lines": [
+        "永琳「她尝试着侵略月之都，而我们和她互相比拼智慧以将她赶走。"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "　　　そんなことが定期的に起こっていたの。"
+      ],
+      "translated_lines": [
+        "　　　这样的事情会定期地发生。"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　　勿論、その事を知っている月の民はごく一部だけど」"
+      ],
+      "translated_lines": [
+        "　　　当然了，知道这件事的月之民也是很少一部分就是了」"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "鈴仙「ふへー、驚きました。"
+      ],
+      "translated_lines": [
+        "铃仙「诶——真是让人吃惊。"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "　　　人間関係は特殊すぎて良く理解できませんでしたが"
+      ],
+      "translated_lines": [
+        "　　　因为人际关系太特殊了所以不能很好的理解但是"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "　　　月の都も裏では攻撃を受けていたんですねぇ」"
+      ],
+      "translated_lines": [
+        "　　　月之都内部也在遭受攻击呢」"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "永琳「その話、月の兎には話さない事ね」"
+      ],
+      "translated_lines": [
+        "永琳「这件事，可不能对月兔们说哦」"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "鈴仙「嫦娥様の耳に届いたら大変ですもんねぇ」"
+      ],
+      "translated_lines": [
+        "铃仙「要是传入嫦娥大人的耳朵里的话就糟糕了呢」"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "永琳「兎が利用されるからよ。嫦娥への下克上に」"
+      ],
+      "translated_lines": [
+        "永琳「因为兔子们被利用了哦。为了对嫦娥的下克上」"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "　　今度は鈴仙に隠し事をしていない様子だった。"
+      ],
+      "translated_lines": [
+        "　　这次似乎没有再对铃仙隐瞒什么事了的样子。"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "　　この話を聞いて、ただの地上に堕ちた月の兎だった彼女は",
+        "　　少し、お師匠様側に近づいた様な気がした。"
+      ],
+      "translated_lines": [
+        "　　听了这些话，原本只是堕落到地上的月兔的她",
+        "　　稍稍，感觉到和师傅大人拉近了些距离。"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "　　それと同時に、月の民達とはもう今までと同じように",
+        "　　接することは出来ないと感じた。"
+      ],
+      "translated_lines": [
+        "　　而且与此同时，感觉到已经无法像从前那样",
+        "　　对待月之民们了。"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "　　Ending　No.07　　月の都の敵とは"
+      ],
+      "translated_lines": [
+        "　　Ending　No.07　　月之都的敌人是"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！　"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "　　　　　完全無欠モードorノーミスクリアエンディング"
+      ],
+      "translated_lines": [
+        "　　　　　完美无缺模式or无miss通关结局"
+      ]
+    }
+  }
+}

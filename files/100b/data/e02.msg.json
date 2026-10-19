@@ -1,0 +1,381 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/e02.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　博麗神社。"
+      ],
+      "translated_lines": [
+        "　　博丽神社。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　東の果てにある神社である。"
+      ],
+      "translated_lines": [
+        "　　坐落在东方的尽头的神社。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "早苗「あのー、まだ月の兎が山に居るのですが……」"
+      ],
+      "translated_lines": [
+        "早苗「那个——，虽然还有月兔呆在山里……」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "霊夢「判ってるわよ。"
+      ],
+      "translated_lines": [
+        "灵梦「我知道了啦。"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　　ちょっと予想外の事態が起きただけよ」"
+      ],
+      "translated_lines": [
+        "　　　只是稍微发生了点意料之外的事态啦」"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "早苗「予想外の事態って？」"
+      ],
+      "translated_lines": [
+        "早苗「意料之外的事态是？」"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "霊夢「月の都の侵攻を防ぐのが目的、ってのはフェイクだったのよ。"
+      ],
+      "translated_lines": [
+        "灵梦「以防止月之都的侵略为目的，这件事只是个幌子啦。"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　　それよりもっと恐ろしい敵がいて……」"
+      ],
+      "translated_lines": [
+        "　　　比起这个有着更加可怕的敌人……」"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "霊夢「そいつが月の都を攻め込んでいたってわけ。"
+      ],
+      "translated_lines": [
+        "灵梦「其实是那家伙攻入了月之都。"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "　　　私は月の都を救うために遣われたの。"
+      ],
+      "translated_lines": [
+        "　　　为了拯救月之都我被差遣去了。"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "　　　どうやら地上人じゃないと近寄れない所に敵がいるとか」"
+      ],
+      "translated_lines": [
+        "　　　说是有着看起来不是地上人的话就无法接近的敌人存在」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "早苗「ははあ、それでねぇ。"
+      ],
+      "translated_lines": [
+        "早苗「嗯嗯，是这样的话。"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "　　　『紺珠の薬』でしたっけ？"
+      ],
+      "translated_lines": [
+        "　　　就是要靠「绀珠之药」吧？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "　　　あれを渡してまで私達に行かせようとした理由が判ったわ」"
+      ],
+      "translated_lines": [
+        "　　　不惜给我们那个药都要让我们去的理由算是明白了」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "早苗「って事は、そろそろ月の兎も撤退してくれるんですよね」"
+      ],
+      "translated_lines": [
+        "早苗「也就是说，月兔们也差不多该撤退了吧」"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "霊夢「いやそれが、その。"
+      ],
+      "translated_lines": [
+        "灵梦「不，那个，我说。"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "　　　『紺珠の薬』を使わなかったので……どうやら失敗かなー」"
+      ],
+      "translated_lines": [
+        "　　　因为我没使用「绀珠之药」……总之是失败了吧——」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "早苗「え？"
+      ],
+      "translated_lines": [
+        "早苗「诶？"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "　　　使わなかったんですか？」"
+      ],
+      "translated_lines": [
+        "　　　你没有使用吗？」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "霊夢「いやまあ、何が入ってるのか良く判らないし」"
+      ],
+      "translated_lines": [
+        "灵梦「哎呀毕竟，也不是很清楚里面有什么成份嘛」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "　　幻想郷を調査する月の兎の手は止まなかった。"
+      ],
+      "translated_lines": [
+        "　　调查幻想乡的月兔们并没有停手。"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "　　その姿は妖怪達には見る事も感じる事も出来ていないようだ。"
+      ],
+      "translated_lines": [
+        "　　那身影似乎也无法被妖怪们所看见或感知到。"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "　　だが、侵略が本気なのか疑問に思うくらいのんびりしていた。"
+      ],
+      "translated_lines": [
+        "　　但是，却是让人抱着「真的是来侵略的吗」般疑问的悠闲态度。"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "　　しかし数日後"
+      ],
+      "translated_lines": [
+        "　　然而数日后，"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "　　ついに月の兎が神社にやって来てしまったのである。"
+      ],
+      "translated_lines": [
+        "　　月兔终于来到了神社。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "霊夢「もう、神社にまで来ちゃってぇ」"
+      ],
+      "translated_lines": [
+        "灵梦「真是的，竟然已经到神社来了」"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "鈴瑚「ほうほう、ここが地上の神社ですかぁ。"
+      ],
+      "translated_lines": [
+        "铃瑚「哦哦，这就是地上的神社啊。"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "　　　随分とこざっぱりとしてますなぁ」"
+      ],
+      "translated_lines": [
+        "　　　真是收拾得相当的整洁利落啊」"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "霊夢「何その微妙な褒め言葉」"
+      ],
+      "translated_lines": [
+        "灵梦「什么啊那微妙的夸奖」"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "鈴瑚「神社は有名なんですよ。我々月の兎にとって」"
+      ],
+      "translated_lines": [
+        "铃瑚「神社是很有名的哦。对我们月兔来说」"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "霊夢「ほうほう、何でかしら」"
+      ],
+      "translated_lines": [
+        "灵梦「哦哦，为什么呢」"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "鈴瑚「過去に来たこともある兎に聞いたところ、"
+      ],
+      "translated_lines": [
+        "铃瑚「从过去来过这里的某只兔子那听说，"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "　　　神聖である筈の神社が妖怪と共存している稀有な場所だって」"
+      ],
+      "translated_lines": [
+        "　　　本应该是神圣的神社却是与妖怪共存的稀有的场所」"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "鈴瑚「一度来てみたかったんだー。色んな妖怪を見てみたいしー」"
+      ],
+      "translated_lines": [
+        "铃瑚「当时就好想来一次啊——也想见识一下各种各样的妖怪——」"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "霊夢「何でそんな話が月まで……。"
+      ],
+      "translated_lines": [
+        "灵梦「为何那种事情都传到月球了……"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "　　　それにあんたらは地上の穢れを嫌うんでしょ？」"
+      ],
+      "translated_lines": [
+        "　　　而且你们不是讨厌地上的污秽吗？」"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "霊夢「妖怪なんて穢れしかないわよ」"
+      ],
+      "translated_lines": [
+        "灵梦「妖怪什么的可只有污秽哦」"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "鈴瑚「本気で穢れると困るのは月の民の一部、貴族達だけだしねー。"
+      ],
+      "translated_lines": [
+        "铃瑚「真正会因为污秽而困扰的只有一部分月之民，就是只有贵族们啦——"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "　　　我々下っ端はどうでも良いのさ」"
+      ],
+      "translated_lines": [
+        "　　　我们这些下层的都无所谓啦」"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "　　その後、いつものように神社に妖怪その他人外がやってきたが、",
+        "　　月の兎の姿は普通に認識されていた。"
+      ],
+      "translated_lines": [
+        "　　在那之后，如同往常一般神社会有妖怪或者其他非人类拜访，",
+        "　　但是月兔的身影能被正常的认识到了。"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "　　どうやら穢れている者を寄せ付けないのは、",
+        "　　月の都から来た地上探査車の仕業らしかった。"
+      ],
+      "translated_lines": [
+        "　　看起来让污秽的家伙们无法靠近察觉的效果是，",
+        "　　来自月之都的地上探查车做出来的。 "
+      ]
+    },
+    "text-041": {
+      "original_lines": [
+        "　　つまり、幻想郷の妖怪を刺激させたくない、という事だろう。"
+      ],
+      "translated_lines": [
+        "　　也就是说，不想刺激到幻想乡的妖怪，就是这么一回事吧。"
+      ]
+    },
+    "text-042": {
+      "original_lines": [
+        "　　そもそも月の都の侵略はサグメという月の民の作戦だが、",
+        "　　妖怪達と本気で争いたくない、と思っているのかも知れない。"
+      ],
+      "translated_lines": [
+        "　　虽然一开始月之都的侵略是叫做探女的月之民的作战计划，",
+        "　　但是，可能就是想着不想和妖怪们真的发生正面争执吧。"
+      ]
+    },
+    "text-043": {
+      "original_lines": [
+        "　　Ending　No.02　　月の兎と共存"
+      ],
+      "translated_lines": [
+        "　　Ending　No.02　　与月兔的共存"
+      ]
+    },
+    "text-044": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！　"
+      ]
+    },
+    "text-045": {
+      "original_lines": [
+        "　　　　　自力クリアエンディング"
+      ],
+      "translated_lines": [
+        "　　　　　靠自己的力量通关的结局"
+      ]
+    }
+  }
+}

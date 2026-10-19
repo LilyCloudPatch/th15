@@ -1,0 +1,295 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/e08.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　永遠亭。"
+      ],
+      "translated_lines": [
+        "　　永远亭。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　迷いの竹林に存在する元月の民達の根城である。"
+      ],
+      "translated_lines": [
+        "　　存在于迷途竹林的原月之民们的根据地。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "鈴仙「いやー、怒られたわー。"
+      ],
+      "translated_lines": [
+        "铃仙「哎呀——，被骂了啊——"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　暫く永遠亭に戻れないわねぇ。"
+      ],
+      "translated_lines": [
+        "　　　暂时是回不去永远亭了呢。"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　　しょうがない、野宿かな……」"
+      ],
+      "translated_lines": [
+        "　　　没办法了，要露宿野外了吗……」"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "鈴仙「私も何で『紺珠の薬』を使わないでいこうと",
+        "　　　思っちゃったのかしら。"
+      ],
+      "translated_lines": [
+        "铃仙「我也是在想些什么啊",
+        "　　　竟然不使用「绀珠之药」就出发了"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　　　魔が差したのかな」"
+      ],
+      "translated_lines": [
+        "　　　是因为鬼使神差吗」"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "鈴仙「それはそうと、あの敵は嫦娥様の名前を",
+        "　　　出していたわね……。"
+      ],
+      "translated_lines": [
+        "铃仙「那件事先放一边，那个敌人把嫦娥大人的名字",
+        "　　　说出来了呢……"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "　　　もしかして、本当の目的は嫦娥様なのかなぁ」"
+      ],
+      "translated_lines": [
+        "　　　难道说，真正的目标是嫦娥大人吗」"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "　　――嫦娥。"
+      ],
+      "translated_lines": [
+        "　　——嫦娥。"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "　　月の都に幽閉されている月の女神である。"
+      ],
+      "translated_lines": [
+        "　　是被幽禁在月之都的月之女神。"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "　　月の兎の支配者でもある。"
+      ],
+      "translated_lines": [
+        "　　也是月兔们的支配者。"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "？？「鈴仙や。"
+      ],
+      "translated_lines": [
+        "？？「铃仙啊。"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "　　　戻っておいで」"
+      ],
+      "translated_lines": [
+        "　　　回来吧」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "鈴仙「あ、輝夜様……」"
+      ],
+      "translated_lines": [
+        "铃仙「啊，辉夜大人……」"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "輝夜「永琳はああ言ってるけど、情報を持ってきた事を",
+        "　　　褒めているわよ。薬を使わなかった事には激怒だけど」"
+      ],
+      "translated_lines": [
+        "辉夜「虽然永琳是那么说的，也夸奖了你带回了情报的事哦。",
+        "　　　虽然没有使用药的事让她很暴怒呢」"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "鈴仙「激怒は知っていますが、有難うございます」"
+      ],
+      "translated_lines": [
+        "铃仙「虽然我知道她很暴怒了，还是谢谢您」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "輝夜「それにね、永琳にも知らない事実があったらしいわ。"
+      ],
+      "translated_lines": [
+        "辉夜「而且呀，似乎有着连永琳也不知道的事实呀。"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "　　　その話をもっと良く教えて」"
+      ],
+      "translated_lines": [
+        "　　　那些事你能再详细地告诉我吗」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "鈴仙「知らない事実とは……どの話でしょうか」"
+      ],
+      "translated_lines": [
+        "铃仙「不知道的事实是指……什么事情呢」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "輝夜「妖精が現われて、そいつが純狐の事を「ご主人様の友人様」って",
+        "　　　言ってたって」"
+      ],
+      "translated_lines": [
+        "辉夜「出现了妖精，而且那家伙将纯狐叫做『主人的朋友大人』",
+        "　　　你这么说的吧」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "鈴仙「ええ、そうです」"
+      ],
+      "translated_lines": [
+        "铃仙「没错，是这样的」"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "輝夜「純狐に友人がいただなんて初耳だったわ。"
+      ],
+      "translated_lines": [
+        "辉夜「纯狐竟然有朋友什么的真是第一次听说啊。"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "　　　もしかしたら、それが純狐の切り札かも知れない、と」"
+      ],
+      "translated_lines": [
+        "　　　说不定，那可能是纯狐的王牌，这样」"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "輝夜「その話、私に詳しく教えてくれないかしら？"
+      ],
+      "translated_lines": [
+        "辉夜「这件事，能不能再详细地跟我说一说呢？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　　どんな妖精で、どんな事を言っていたのか……」"
+      ],
+      "translated_lines": [
+        "　　　什么样的妖精，说了些什么话……」"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "　　鈴仙は輝夜の好意で永遠亭に戻った。"
+      ],
+      "translated_lines": [
+        "　　铃仙在辉夜的好意下回到了永远亭。"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "　　永琳ももう怒っていないようだったが、"
+      ],
+      "translated_lines": [
+        "　　虽然永琳也已经不再生气了的样子，"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　鈴仙はできる限り妖精の詳細を伝えた。"
+      ],
+      "translated_lines": [
+        "　　铃仙还是尽她所能将那个妖精的事情详尽地传达了。"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "　　しかし、その正体は誰にも掴めなかった。"
+      ],
+      "translated_lines": [
+        "　　但是，那背后的正主却没人能够猜得出来。"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "　　不気味に感じていた所、なんと敵の方から姿を現したのだ。"
+      ],
+      "translated_lines": [
+        "　　正感觉到毛骨悚然的时候，她竟然从敌人那边自己现出了身姿。"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "　　それは夢の中の話であった。（エキストラに続きます）"
+      ],
+      "translated_lines": [
+        "　　而那就是在梦中的故事了。（后续剧情在EXTRA）"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "　　Ending　No.08　　本当の悪夢の始まり"
+      ],
+      "translated_lines": [
+        "　　Ending　No.08　　真正的噩梦的开始"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "　　　　　自力クリアエンディング"
+      ],
+      "translated_lines": [
+        "　　　　　靠自己的力量通关的结局"
+      ]
+    }
+  }
+}

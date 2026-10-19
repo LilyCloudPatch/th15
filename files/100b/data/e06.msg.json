@@ -1,0 +1,377 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/e06.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　守矢神社"
+      ],
+      "translated_lines": [
+        "　　守矢神社"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　妖怪の山にある比較的新しい神社である。"
+      ],
+      "translated_lines": [
+        "　　坐落于妖怪之山的比较新成的一所神社。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "神奈子「そんなのも避けられないなんて！"
+      ],
+      "translated_lines": [
+        "神奈子「竟然连那种程度都无法避开！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　　湖を一周してこい！」"
+      ],
+      "translated_lines": [
+        "　　　　去绕湖跑一圈！」"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "早苗　「はい！　行ってきまーす」"
+      ],
+      "translated_lines": [
+        "早苗　「是！那我出发了——」"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "　　…………数十分後"
+      ],
+      "translated_lines": [
+        "　　…………数十分钟后"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "神奈子「遅ーい！"
+      ],
+      "translated_lines": [
+        "神奈子「太——慢了！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　　　次の弾幕セット行くよー！」"
+      ],
+      "translated_lines": [
+        "　　　　下一组弹幕发射了哦——！」"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "早苗　「はあはあ、ちょっと休ませてくださいー」"
+      ],
+      "translated_lines": [
+        "早苗　「哈啊哈啊，请让我稍微休息会吧——」"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "神奈子「そんな根性で月の民に敵うと思っているの！"
+      ],
+      "translated_lines": [
+        "神奈子「你觉得这种毅力就能与月之民匹敌了吗！"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "　　　　またボロクソにやられて帰ってきたいのかー！」"
+      ],
+      "translated_lines": [
+        "　　　　你想要再次破破烂烂窝窝囊囊被打败后回来吗——！」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "早苗　「いやあ、それは嫌ですけど」"
+      ],
+      "translated_lines": [
+        "早苗　「不要啦，虽然我也很讨厌那样」"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "早苗　「スポーツは根性論とかもうそんな時代じゃ無いですし……」"
+      ],
+      "translated_lines": [
+        "早苗　「运动就是毅力的理论什么的，明明现在已经不是那样的时代了……」"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "神奈子「判ってないなぁ！"
+      ],
+      "translated_lines": [
+        "神奈子「你还是不明白啊！"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "　　　　時代じゃ無いから重要なのよー！」"
+      ],
+      "translated_lines": [
+        "　　　　就因为跟不上时代所以才重要啊——！」"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "神奈子「突き詰めると弾幕は根性！"
+      ],
+      "translated_lines": [
+        "神奈子「追根寻底弹幕就是毅力！"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "　　　　避けられないのは根性が足りないから！　判ったら、返事！」"
+      ],
+      "translated_lines": [
+        "　　　　无法避开就是因为毅力不够！明白了的话，就回答！」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "早苗　「へーい」"
+      ],
+      "translated_lines": [
+        "早苗　「好——啦」"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "諏訪子「分析結果が出たよー」"
+      ],
+      "translated_lines": [
+        "诹访子「分析结果出来了哦——」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "神奈子「どうだった？」"
+      ],
+      "translated_lines": [
+        "神奈子「结果怎么样？」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "早苗　「はあはあはあ、分析って？」"
+      ],
+      "translated_lines": [
+        "早苗　「哈啊哈啊哈啊，分析是什么？」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "諏訪子「何って『紺珠の薬』の分析に決まってるじゃん。"
+      ],
+      "translated_lines": [
+        "诹访子「当然指的是「绀珠之药」的分析啊。"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "　　　　早苗が月に行っている間に、この薬を調べてたんだ」"
+      ],
+      "translated_lines": [
+        "　　　　早苗去月球的时间里，我调查了这个药哦」"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "早苗　「はあ、それで私は薬を使わずに行くしかなかったと」"
+      ],
+      "translated_lines": [
+        "早苗　「哈啊，当时因为这样我就只能不用药就出发了」"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "諏訪子「でも、使わなくて正解だったわよ。"
+      ],
+      "translated_lines": [
+        "诹访子「但是，不使用是正确的哦。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　　　この薬には強い副作用がある可能性が高い」"
+      ],
+      "translated_lines": [
+        "　　　　这个药有强烈的副作用的可能性很高」"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "神奈子「ほほう、どんな副作用？」"
+      ],
+      "translated_lines": [
+        "神奈子「哦哦，什么副作用？」"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "諏訪子「未来体験をするのと同時に、過去を浄化する効果も認められた。"
+      ],
+      "translated_lines": [
+        "诹访子「这药有着体验未来的效果，但与此同时，也有着将过去给净化的效果。"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　　　古い土着の神霊達に試したら……」"
+      ],
+      "translated_lines": [
+        "　　　　在古老的土著的神灵们身上试验了一下……」"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "神奈子「イチコロだった、って訳ね」"
+      ],
+      "translated_lines": [
+        "神奈子「一下就倒了，就是这么一回事吧」"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "諏訪子「そう、この薬は地上に住む生き物には影響が強い」"
+      ],
+      "translated_lines": [
+        "诹访子「是的，这个药对住在地上的生物的影响很强」"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "早苗　「え？　もしかして使ってたら私、危なかった？」"
+      ],
+      "translated_lines": [
+        "早苗　「诶？难道说要是使用了的话，我就会很危险？」"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "諏訪子「イチコロ……って事は無いけど」"
+      ],
+      "translated_lines": [
+        "诹访子「一下就倒……这种事虽然不会啦」"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "諏訪子「無いけど、多分、必要以上に穢れが払われて",
+        "　　　　綺麗な人間になっていたかもね」"
+      ],
+      "translated_lines": [
+        "诹访子「不会但是，大概，超过必要程度地消除污秽",
+        "　　　　可能会变成完美的人类吧」"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "早苗　「？　良いじゃないですか」"
+      ],
+      "translated_lines": [
+        "早苗　「？ 这不是挺好吗」"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "　　地上人と月の民の差は、穢れているかそうで無いかの差である。"
+      ],
+      "translated_lines": [
+        "　　地上人与月之民的差距，就是是否有污秽在身的差别。"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "　　穢れゆく地上を捨て、月に住んだ者が月の民だからだ。"
+      ],
+      "translated_lines": [
+        "　　因为舍弃了变得污秽的地上，居住在月亮上的就是月之民。"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "　　月の民が言う穢れとは、生まれる事と死ぬ事である。"
+      ],
+      "translated_lines": [
+        "　　月之民所说的污秽，就是生与死。"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "　　穢れを失うと言う事は生と死の両方を失う事だ。"
+      ],
+      "translated_lines": [
+        "　　失去了污秽，就是同时失去了生与死两方面这么一回事。"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "　　それでは生命溢れる地上では暮らせないだろう。"
+      ],
+      "translated_lines": [
+        "　　这样子就无法在生命满溢的地上生活了吧。"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "　　紺珠の薬は生と死の存在を希薄にする。確かにそうだった。"
+      ],
+      "translated_lines": [
+        "　　绀珠之药会将生与死的存在变得稀薄。确实是这样。"
+      ]
+    },
+    "text-041": {
+      "original_lines": [
+        "　　残機という概念を無くし、ミスが軽くなるのを感じただろう。"
+      ],
+      "translated_lines": [
+        "　　没有所谓的残机的概念，也会感觉Miss变得很随意吧。"
+      ]
+    },
+    "text-042": {
+      "original_lines": [
+        "　　紺珠の薬を使い続ける事は危険なのかも知れない。"
+      ],
+      "translated_lines": [
+        "　　不断地使用绀珠之药可能是很危险的事情。"
+      ]
+    },
+    "text-043": {
+      "original_lines": [
+        "　　Ending　No.06　　弾幕根性論"
+      ],
+      "translated_lines": [
+        "　　Ending　No.06　　弾幕毅力论"
+      ]
+    },
+    "text-044": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！　"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！　"
+      ]
+    },
+    "text-045": {
+      "original_lines": [
+        "　　　　　自力クリアエンディング"
+      ],
+      "translated_lines": [
+        "　　　　　靠自己的力量通关的结局"
+      ]
+    }
+  }
+}

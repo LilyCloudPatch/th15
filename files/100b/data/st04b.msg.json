@@ -1,0 +1,399 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st04b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "月の都……なのか？"
+      ],
+      "translated_lines": [
+        "这里是……月之都？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "何だか生きている物の姿が",
+        "殆ど無い"
+      ],
+      "translated_lines": [
+        "为什么放眼望去几乎看不到",
+        "一个活物啊"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "さっき出会った奴くらいだな"
+      ],
+      "translated_lines": [
+        "就只有刚才碰到的那家伙而已"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "もしかしたらまだ",
+        "夢の中なのかも知れんが"
+      ],
+      "translated_lines": [
+        "莫非我还在梦中吗",
+        "说不定是呢"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "…………"
+      ],
+      "translated_lines": [
+        "…………"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "噂をすれば"
+      ],
+      "translated_lines": [
+        "你不说点啥吗"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "……ほう、人間？"
+      ],
+      "translated_lines": [
+        "……嚯，人类？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "……"
+      ],
+      "translated_lines": [
+        "……"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "なんだ、愛想の無い奴だな"
+      ],
+      "translated_lines": [
+        "什么啊，好冷淡的家伙"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "地上から来た人間なんだ",
+        "もっと驚いても良いんだぜ？"
+      ],
+      "translated_lines": [
+        "我正是从地上来的人类",
+        "你再惊讶点我会很开心的哦？"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "……"
+      ],
+      "translated_lines": [
+        "……"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "幻想郷に何をしようと",
+        "しているんだ？"
+      ],
+      "translated_lines": [
+        "你想对幻想乡",
+        "做些什么？"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "何で月の都にお前くらいしか",
+        "見当たらないんだ？"
+      ],
+      "translated_lines": [
+        "为什么月之都里除了你",
+        "不见一个人影？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "……まだ喋るには早い"
+      ],
+      "translated_lines": [
+        "……现在还不是说出口的时候"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "そうか、喋らないなら",
+        "こっちから行くぜ"
+      ],
+      "translated_lines": [
+        "是吗，你不肯说的话",
+        "我就动手咯"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "色々知ってそうな",
+        "顔をしてるもんな"
+      ],
+      "translated_lines": [
+        "毕竟你一看就是副",
+        "知道得很多的样子嘛"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "貴方が送り込まれた理由が",
+        "判ったわ"
+      ],
+      "translated_lines": [
+        "你被送进来的理由",
+        "我明白了"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "きっと八意様の差し金ね"
+      ],
+      "translated_lines": [
+        "你一定是八意大人派遣来的"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "そんなに強いんですもの",
+        "貴方ならきっと……"
+      ],
+      "translated_lines": [
+        "既然这么强大",
+        "你一定能……"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "なんだ、喋れるんじゃ無いか"
+      ],
+      "translated_lines": [
+        "什么啊，这不是开口了吗"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "幻想郷に攻め込んできたのは",
+        "お前の仕業なのか？"
+      ],
+      "translated_lines": [
+        "进攻幻想乡的人",
+        "是不是你？"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "そうですね"
+      ],
+      "translated_lines": [
+        "没错"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "幻想郷遷都計画に関しては",
+        "あくまでも保険としてですが"
+      ],
+      "translated_lines": [
+        "关于迁都幻想乡计划的一切",
+        "毕竟只是最终的保险手段而已"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "遷都、だと？"
+      ],
+      "translated_lines": [
+        "你说要，迁都？"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "しないに越した事は",
+        "無いんですけどねぇ"
+      ],
+      "translated_lines": [
+        "能免于实行的话",
+        "就是再好不过了"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "月の都をこのまま凍結させ",
+        "続けるわけにも行かないし"
+      ],
+      "translated_lines": [
+        "毕竟月之都也不能",
+        "就这么一直冻结下去"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "ま、仕方が無いのよね"
+      ],
+      "translated_lines": [
+        "哎，说到底也是无奈之举"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "話がまるで読めないな"
+      ],
+      "translated_lines": [
+        "你说的话完全听不懂啊"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "本当に侵略を受けているのは",
+        "月の都なの"
+      ],
+      "translated_lines": [
+        "真正在遭受侵略的",
+        "是月之都"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "それも我々月の民には",
+        "手が出せない方法で"
+      ],
+      "translated_lines": [
+        "而且我等月之民对那种手段",
+        "毫无回击之力"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "全滅を回避する為に",
+        "幻想郷への移住を検討していいた"
+      ],
+      "translated_lines": [
+        "为了避免全灭的结局",
+        "我们正在考虑移居幻想乡"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "月の都が侵略されているだと？"
+      ],
+      "translated_lines": [
+        "你说月之都正在被侵略？"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "ええそうです"
+      ],
+      "translated_lines": [
+        "啊啊没错"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "もっとも、月の民達はそんなこと",
+        "知らないのですが"
+      ],
+      "translated_lines": [
+        "当然，月之民们",
+        "并不会知道真相"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "私は言葉で世界の行く末を",
+        "変える存在です"
+      ],
+      "translated_lines": [
+        "我是仅凭言语便能",
+        "改变世界的走向的存在"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "|8,16,・・",
+        "あの都市伝説が広まったとき",
+        "遷都は現実化し、危機は回避できる"
+      ],
+      "translated_lines": [
+        "|23,16,··",
+        "在那个都市传说扩散开来的同时",
+        "迁都之事就会现实化，从而回避危机"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "判ったような判らんような"
+      ],
+      "translated_lines": [
+        "好像懂了又好像没有懂"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "だが、幻想郷を巻き込まないでくれ",
+        "迷惑だ"
+      ],
+      "translated_lines": [
+        "可是，你可别把幻想乡卷进去啊",
+        "很头疼的"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "もう心配は要らないわ"
+      ],
+      "translated_lines": [
+        "已经不必担心了"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "私が喋ってしまったから",
+        "運命はまた変わる"
+      ],
+      "translated_lines": [
+        "在从我口中说出的同时",
+        "命运就在改变"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "遷都は実現しないでしょう"
+      ],
+      "translated_lines": [
+        "迁都是不会实现的吧"
+      ]
+    },
+    "text-041": {
+      "original_lines": [
+        "だから私は貴方に賭けるわ",
+        "もう逃れられないわよ"
+      ],
+      "translated_lines": [
+        "所以我把一切赌在你身上",
+        "你已经逃不掉了"
+      ]
+    },
+    "text-042": {
+      "original_lines": [
+        "ついに運命は逆さに動き始めた",
+        "いざ敵の本拠地、静かの海に向かえ！"
+      ],
+      "translated_lines": [
+        "命运终于开始逆转了",
+        "向敌人的根据地，静海进发吧！"
+      ]
+    }
+  }
+}

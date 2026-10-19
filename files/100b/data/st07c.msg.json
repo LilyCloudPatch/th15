@@ -1,0 +1,679 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st07c.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "この答えに辿り着くまで",
+        "思ったより時間が掛ったわね"
+      ],
+      "translated_lines": [
+        "你寻找到这个答案的过程",
+        "比起我想象的还要多花了点时间呢"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "人間を使うという奇策を打ったのだから",
+        "すぐに気付くと思ったのですが……"
+      ],
+      "translated_lines": [
+        "因为你谋划了借人类之手这一奇策",
+        "我还以为你会立刻就察觉到呢……"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "また会ったわねー！"
+      ],
+      "translated_lines": [
+        "又遇到了呢——！"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "今度こそ決着を付けるとき！"
+      ],
+      "translated_lines": [
+        "这一次就是决出胜负的时刻！"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "……月の民は夢の世界に逃げ込んだ"
+      ],
+      "translated_lines": [
+        "……月之民们逃进了梦境里"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "月の都に居られなくなった月の民は",
+        "そうするだろうと私は読んでいた"
+      ],
+      "translated_lines": [
+        "已经无法在月之都居住下去的月之民",
+        "会这样行动也被我预读到了"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "勿論、私は先手を打った"
+      ],
+      "translated_lines": [
+        "当然，我便先手出击了"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "夢の世界に刺客を",
+        "送り込んでいたのです"
+      ],
+      "translated_lines": [
+        "我将一位刺客",
+        "送进了梦境中"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "さあ出ておいで！",
+        "地獄の女神、へカーティアよ"
+      ],
+      "translated_lines": [
+        "好了快出来吧！",
+        "地狱的女神，赫卡提亚啊"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "んもう",
+        "待ちくたびれたわよん"
+      ],
+      "translated_lines": [
+        "嗯真是的~",
+        "都等得不耐烦了哟"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "ようやく、嫦娥の奴に復讐出来るのね？",
+        "腕が鳴るわー"
+      ],
+      "translated_lines": [
+        "终于，能够向嫦娥那家伙复仇了吧？",
+        "真是跃跃欲试呀"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "いや、敵は月の民ではなくて",
+        "目の前の人間です"
+      ],
+      "translated_lines": [
+        "不，敌人可不是月之民",
+        "而是眼前的这个人类哦"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "人間？",
+        "ええ人間なの？　生身の？"
+      ],
+      "translated_lines": [
+        "人类？",
+        "诶诶是人类吗？活生生的？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "ふーん……",
+        "どれどれ"
+      ],
+      "translated_lines": [
+        "哼……",
+        "让我来瞧瞧"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "むむ、敵が二人？"
+      ],
+      "translated_lines": [
+        "唔唔、敌人有两个？"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "二人に見えるかしら？",
+        "ふふふ"
+      ],
+      "translated_lines": [
+        "你就看到两个人吗？",
+        "呵呵呵"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "まあ良いでしょう",
+        "この人間が純狐を手こずらせてるの？"
+      ],
+      "translated_lines": [
+        "这样也好",
+        "就是这个人类让纯狐你感到棘手吗？"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "手こずるなんてもんじゃ無い"
+      ],
+      "translated_lines": [
+        "已经不是什么棘手的问题了"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "この人間のおかげで",
+        "我々の敗北が半分だけ決定した"
+      ],
+      "translated_lines": [
+        "拜这人类所赐",
+        "我们的败北已经确定了大半了"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "ええええ？",
+        "それほどまで……"
+      ],
+      "translated_lines": [
+        "诶诶诶诶？",
+        "竟然到了这种程度……"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "月の民は狡猾だわ",
+        "こんな人間を送り込んでくるなんて"
+      ],
+      "translated_lines": [
+        "月之民就是这么狡猾",
+        "竟将这种人类送进我们的计划中来"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "ふーん、面白い",
+        "純狐がそこまで言うんなら本物ね"
+      ],
+      "translated_lines": [
+        "哼，真是有趣",
+        "既然纯狐都这样说了那看来是真人真事呢"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "何かヤバイ雰囲気……"
+      ],
+      "translated_lines": [
+        "什么呀这糟糕的气氛……"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "ひとまず退散して味方を",
+        "呼んでこようかしら"
+      ],
+      "translated_lines": [
+        "要不要先暂时撤退",
+        "再叫同伴一起来会比较好呢"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "そーんなに怖がらなくてもいいわよ？"
+      ],
+      "translated_lines": [
+        "你用不着那样害怕的呀？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "何も本気で戦ったりはしないわよぉ"
+      ],
+      "translated_lines": [
+        "我不会什么认真战斗之类的哟"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "どうやら純狐も敗北を覚悟している",
+        "みたいだし……"
+      ],
+      "translated_lines": [
+        "而且纯狐看起来也已经",
+        "接受了自己的败北……"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "もう勝ち負けは重要じゃ無いみたい"
+      ],
+      "translated_lines": [
+        "胜负什么的似乎已经没那么重要了"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "だから私達も正々堂々一人ずつ戦うわ",
+        "これは余興みたいなもんよ"
+      ],
+      "translated_lines": [
+        "所以我们这边也会堂堂正正地一对一战斗",
+        "这大概就是当作余兴节目的活动哦"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "そうですか",
+        "安心しました"
+      ],
+      "translated_lines": [
+        "是这样啊",
+        "那我就安心了"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "では改めて……",
+        "さっさと勝負しろ！　この変なＴシャツヤロー！"
+      ],
+      "translated_lines": [
+        "那么就重来一次……",
+        "快来决一胜负吧！你这奇怪的T恤衫混蛋！"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "よーし、可愛いねぇ",
+        "ちょっと遊んでやるわ"
+      ],
+      "translated_lines": [
+        "好——的，真是可爱呢",
+        "就稍微陪你玩玩吧"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "本来なら、人間など相手に",
+        "しないんだけど"
+      ],
+      "translated_lines": [
+        "本来的话，人类之流",
+        "是不配做我的对手的"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "『貴方は私に暴言を吐いた』",
+        "それだけの理由で貴方を地獄へ堕とす"
+      ],
+      "translated_lines": [
+        "『你对我恶语相向』",
+        "只是这一个理由就可以把你打入地狱"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "ただそれだけの理由だ！",
+        "死んでも悔しがれ！"
+      ],
+      "translated_lines": [
+        "就是这么一个简单的理由！",
+        "我会让你死了都会后悔的！"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "約束破ったわねー！",
+        "二人がかりで来るなんて！"
+      ],
+      "translated_lines": [
+        "根本没遵守约定啊——！",
+        "两个人一起上什么的！"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "あらあらごめんなさいね",
+        "もう勝負あったわ、私の負けよ"
+      ],
+      "translated_lines": [
+        "啊啦啊啦对不起呢",
+        "已经分出胜负了，是我输了哦"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "純狐が言うだけあって",
+        "素晴らしい人間だわ"
+      ],
+      "translated_lines": [
+        "和纯狐说的一模一样",
+        "是个优秀的人类呀"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "こんな素晴らしい人間がいる",
+        "幻想郷に攻め入るなんて"
+      ],
+      "translated_lines": [
+        "有着这样优秀的人类存在",
+        "还进攻幻想乡什么的"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "月の民達は許しがたいわね"
+      ],
+      "translated_lines": [
+        "月之民们还真是不可饶恕呢"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "今はその許しがたい月の民を",
+        "解放して欲しいの"
+      ],
+      "translated_lines": [
+        "现在希望把那些不可饶恕的",
+        "月之民们解放出来呢"
+      ]
+    },
+    "text-041": {
+      "original_lines": [
+        "ねえ、純狐？",
+        "良いかしら？"
+      ],
+      "translated_lines": [
+        "喂，纯狐？",
+        "这样可以吗？"
+      ]
+    },
+    "text-042": {
+      "original_lines": [
+        "……良いわ",
+        "月の民を都へ戻しても"
+      ],
+      "translated_lines": [
+        "……好吧",
+        "就让月之民返回月之都吧"
+      ]
+    },
+    "text-043": {
+      "original_lines": [
+        "この人間に出会えたおかげで",
+        "戦意喪失したから"
+      ],
+      "translated_lines": [
+        "拜和这个人类相遇所赐",
+        "我已经失去战意了啊"
+      ]
+    },
+    "text-044": {
+      "original_lines": [
+        "オーケーオーケー",
+        "じゃあ、月の民は解放しよう"
+      ],
+      "translated_lines": [
+        "OK——OK——",
+        "那么，就解放月之民们吧"
+      ]
+    },
+    "text-045": {
+      "original_lines": [
+        "これであいつ等は幻想郷からも",
+        "手を引くでしょう"
+      ],
+      "translated_lines": [
+        "这样一来那些家伙们也会对幻想乡",
+        "罢手息战了吧"
+      ]
+    },
+    "text-046": {
+      "original_lines": [
+        "ほんとに？"
+      ],
+      "translated_lines": [
+        "真的吗？"
+      ]
+    },
+    "text-047": {
+      "original_lines": [
+        "一回、そっちの奴に騙されたから",
+        "信用できないんだけど"
+      ],
+      "translated_lines": [
+        "之前，被那边的家伙骗了一次",
+        "根本没法相信你们"
+      ]
+    },
+    "text-048": {
+      "original_lines": [
+        "騙してなんかないわ"
+      ],
+      "translated_lines": [
+        "我可没有骗你哦"
+      ]
+    },
+    "text-049": {
+      "original_lines": [
+        "まさか月の民が幻想郷全体を人質に",
+        "とるなんて思って無かったから"
+      ],
+      "translated_lines": [
+        "我们完全没有想过",
+        "月之民会将幻想乡全体劫持为人质"
+      ]
+    },
+    "text-050": {
+      "original_lines": [
+        "結果として間接的に幻想郷への",
+        "攻撃になってしまっただけで"
+      ],
+      "translated_lines": [
+        "只是从结果上看是我们",
+        "间接地对幻想乡发起了进攻"
+      ]
+    },
+    "text-051": {
+      "original_lines": [
+        "我々の敵は月の民だけなんです"
+      ],
+      "translated_lines": [
+        "但是我们的敌人只有月之民而已"
+      ]
+    },
+    "text-052": {
+      "original_lines": [
+        "なら……良いけど"
+      ],
+      "translated_lines": [
+        "这样……就好吧"
+      ]
+    },
+    "text-053": {
+      "original_lines": [
+        "あ、そういえば幻想郷に月の民が",
+        "住んでいますよ"
+      ],
+      "translated_lines": [
+        "啊，说起来幻想乡里还有月之民",
+        "居住着哦"
+      ]
+    },
+    "text-054": {
+      "original_lines": [
+        "知ってるわ"
+      ],
+      "translated_lines": [
+        "我知道呀"
+      ]
+    },
+    "text-055": {
+      "original_lines": [
+        "それがどうかしたの？"
+      ],
+      "translated_lines": [
+        "那又怎么样呢？"
+      ]
+    },
+    "text-056": {
+      "original_lines": [
+        "その人に抗議してみたら",
+        "如何でしょう？"
+      ],
+      "translated_lines": [
+        "试着向那个人抗议的话",
+        "不知如何呢？"
+      ]
+    },
+    "text-057": {
+      "original_lines": [
+        "月の民代表として"
+      ],
+      "translated_lines": [
+        "把她当作月之民的代表"
+      ]
+    },
+    "text-058": {
+      "original_lines": [
+        "それもアリかもね"
+      ],
+      "translated_lines": [
+        "那说不定有用呢"
+      ]
+    },
+    "text-059": {
+      "original_lines": [
+        "勿論、対話で、ですよ？",
+        "暴力はいけませんよ！"
+      ],
+      "translated_lines": [
+        "当然了，是通过，对话哦？",
+        "动用暴力可不行哦！"
+      ]
+    },
+    "text-060": {
+      "original_lines": [
+        "うーん、相手が暴力を使って来たら",
+        "どうするの？"
+      ],
+      "translated_lines": [
+        "唔——嗯，那要是对方使用暴力相向的话",
+        "又该怎么办呢？"
+      ]
+    },
+    "text-061": {
+      "original_lines": [
+        "その時は戦ってください",
+        "さっきみたいに！"
+      ],
+      "translated_lines": [
+        "那时候就请和她们战斗吧",
+        "就像刚才那样子！"
+      ]
+    },
+    "text-062": {
+      "original_lines": [
+        "あははは",
+        "おもしろーい"
+      ],
+      "translated_lines": [
+        "啊哈哈哈",
+        "真有——趣"
+      ]
+    },
+    "text-063": {
+      "original_lines": [
+        "ふふふ、今はもう復讐心は無いわ"
+      ],
+      "translated_lines": [
+        "呵呵呵，现在已经没有复仇的心思啦"
+      ]
+    },
+    "text-064": {
+      "original_lines": [
+        "次の復讐劇まで",
+        "長い時間が掛りそうね"
+      ],
+      "translated_lines": [
+        "直到下一次复仇剧",
+        "似乎还要度过很长一段时间呢"
+      ]
+    },
+    "text-065": {
+      "original_lines": [
+        "貴方のお陰でね"
+      ],
+      "translated_lines": [
+        "都是托你的福呢"
+      ]
+    },
+    "text-066": {
+      "original_lines": [
+        "ほんじゃまあ",
+        "我々も戻りましょうか"
+      ],
+      "translated_lines": [
+        "那就拜拜啦",
+        "我们也要回去了吧"
+      ]
+    },
+    "text-067": {
+      "original_lines": [
+        "戻るって、何処に？"
+      ],
+      "translated_lines": [
+        "回去，回哪儿？"
+      ]
+    },
+    "text-068": {
+      "original_lines": [
+        "地球にです",
+        "我々は月の民ではないですから"
+      ],
+      "translated_lines": [
+        "回地球啊",
+        "因为我等并不是月之民嘛"
+      ]
+    },
+    "text-069": {
+      "original_lines": [
+        "また来てしまったのですね……"
+      ],
+      "translated_lines": [
+        "你还是又来到这里了呢……"
+      ]
+    },
+    "text-070": {
+      "original_lines": [
+        "だから言ったでしょう？"
+      ],
+      "translated_lines": [
+        "所以我说过了吧？"
+      ]
+    },
+    "text-071": {
+      "original_lines": [
+        "あの時、夢という事にしておけば",
+        "こんな狂夢を見る事は無かったのに……"
+      ],
+      "translated_lines": [
+        "那个时候，把这一切都当作是一个梦的话",
+        "明明就不会见到这样的狂梦了的……"
+      ]
+    }
+  }
+}

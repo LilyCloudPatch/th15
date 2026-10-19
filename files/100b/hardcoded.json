@@ -1,0 +1,119 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "lilypatch/th15/hardcoded",
+  "entries": {
+    "window-title": {
+      "original_lines": [
+        "東方紺珠伝　～ Legacy of Lunatic Kingdom. ver 1.00b"
+      ],
+      "translated_lines": [
+        "东方绀珠传　～ Legacy of Lunatic Kingdom. ver 1.00b"
+      ]
+    },
+    "music-locked-1": {
+      "original_lines": [
+        "　　＊＊選択した曲はまだゲーム中で再生されていません＊＊"
+      ],
+      "translated_lines": [
+        "　　＊＊选择的曲目尚未在游戏中播放＊＊"
+      ]
+    },
+    "music-locked-2": {
+      "original_lines": [
+        "　　　　曲のコメントがネタバレになる恐れがあります。"
+      ],
+      "translated_lines": [
+        "　　　　曲子的评论可能会构成剧透。"
+      ]
+    },
+    "music-locked-3": {
+      "original_lines": [
+        "　　　　　　　　　それでも再生しますか？"
+      ],
+      "translated_lines": [
+        "　　　　　　　　　即便如此也要播放吗？"
+      ]
+    },
+    "music-locked-4": {
+      "original_lines": [
+        "　　　再生したい方は、もう一度決定ボタンを押してください。"
+      ],
+      "translated_lines": [
+        "　　　如果想要播放，请再次按下确定键。"
+      ]
+    },
+    "music-locked-5": {
+      "original_lines": [
+        "　　　再生したくない方は、カーソルを移動してください。"
+      ],
+      "translated_lines": [
+        "　　　如果不想播放，请将光标移动至其它曲子。"
+      ]
+    },
+    "startup-dialog-title": {
+      "original_lines": [
+        "東方紺珠伝"
+      ],
+      "translated_lines": [
+        "东方绀珠传"
+      ]
+    },
+    "startup-dialog-resolution-label": {
+      "original_lines": [
+        "解像度を選択してください"
+      ],
+      "translated_lines": [
+        "请选择分辨率"
+      ]
+    },
+    "startup-dialog-resolution-640": {
+      "original_lines": [
+        "640×480"
+      ],
+      "translated_lines": [
+        "640×480"
+      ]
+    },
+    "startup-dialog-resolution-960": {
+      "original_lines": [
+        "960×720"
+      ],
+      "translated_lines": [
+        "960×720"
+      ]
+    },
+    "startup-dialog-resolution-1280": {
+      "original_lines": [
+        "1280×960 （推奨）"
+      ],
+      "translated_lines": [
+        "1280×960 （推荐）"
+      ]
+    },
+    "startup-dialog-fullscreen": {
+      "original_lines": [
+        "フルスクリーンで起動する"
+      ],
+      "translated_lines": [
+        "全屏启动"
+      ]
+    },
+    "startup-dialog-ask": {
+      "original_lines": [
+        "起動時に毎回訊ねる"
+      ],
+      "translated_lines": [
+        "每次启动时询问"
+      ]
+    },
+    "startup-dialog-start": {
+      "original_lines": [
+        "ゲーム起動"
+      ],
+      "translated_lines": [
+        "启动游戏"
+      ]
+    }
+  }
+}

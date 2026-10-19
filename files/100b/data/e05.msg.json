@@ -1,0 +1,265 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/e05.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　守矢神社"
+      ],
+      "translated_lines": [
+        "　　守矢神社"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　妖怪の山にある比較的新しい神社である。"
+      ],
+      "translated_lines": [
+        "　　是位于妖怪之山的比较新成的一所神社。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "早苗「『――その時私の最終奥義が巨悪を挫き、"
+      ],
+      "translated_lines": [
+        "早苗「『——那个时候我的最终奥义将极恶的反派挫败，"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　　月の都は救われたのである。"
+      ],
+      "translated_lines": [
+        "　　　　拯救了月之都。"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　　　かくして、私は月の救世主として崇められることとなった。』"
+      ],
+      "translated_lines": [
+        "　　　　于是乎，我就被大家崇敬地称呼为月亮的救世主。』"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "早苗「っと、こんな感じかな。"
+      ],
+      "translated_lines": [
+        "早苗「好了，就是这样的感觉吧。"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　　　後は、判りやすくイラストでも書いておこうっと」"
+      ],
+      "translated_lines": [
+        "　　　然后，来画上点容易理解的插图吧」"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "神奈子「……これが、今回の件の報告書？」"
+      ],
+      "translated_lines": [
+        "神奈子「……这就是，这次的事件的报告书？」"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "早苗　「はい、私の武勇伝です」"
+      ],
+      "translated_lines": [
+        "早苗　「是的，是我的英勇事迹」"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "神奈子「ふーむ。驚愕の内容だが、何処まで本当なのやら」"
+      ],
+      "translated_lines": [
+        "神奈子「嗯——。虽然是很令人惊讶的内容，但是到哪里为止是真的呢」"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "早苗　「信じられない事に８割方本当です」"
+      ],
+      "translated_lines": [
+        "早苗　「虽然令人难以置信但是里面有八成是真的」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "神奈子「今度から報告書は１０割本当にしなさい」"
+      ],
+      "translated_lines": [
+        "神奈子「从下次起请把报告书的十成都变成真的」"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "神奈子「……ふむふむ。"
+      ],
+      "translated_lines": [
+        "神奈子「……嗯嗯。"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "　　　　月の都が幻想郷に遷都しようとしていた……"
+      ],
+      "translated_lines": [
+        "　　　　月之都企图迁都到幻想乡来……"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "　　　　でもそれは月の都が侵略されていたから、ってこれは本当？」"
+      ],
+      "translated_lines": [
+        "　　　　但是那是因为月之都也被侵略了，这件事是真的吗？」"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "早苗　「ええ、それは本当です」"
+      ],
+      "translated_lines": [
+        "早苗　「没错，这是真的」"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "神奈子「それが本当だとすると"
+      ],
+      "translated_lines": [
+        "神奈子「这件事要是真的的话"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "　　　　月の民が貴方に仕事を依頼した理由は……」"
+      ],
+      "translated_lines": [
+        "　　　　月之民拜托你做这件事的理由就是……」"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "早苗　「それは私が強いからでしょう」"
+      ],
+      "translated_lines": [
+        "早苗　「因为我很强对吧」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "神奈子「自分では手が出せない敵だったから、という事になるわね」"
+      ],
+      "translated_lines": [
+        "神奈子「因为是自己无法出手的敌人，应该是这样的状况吧」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "神奈子「……このサグメって、もしかして」"
+      ],
+      "translated_lines": [
+        "神奈子「……这个叫佐具卖的人，难道说」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "早苗　「知っているのですか？　変な奴でしたよ」"
+      ],
+      "translated_lines": [
+        "早苗　「您认识吗？是个很奇怪的家伙哦」"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "神奈子「うーん、探女（サグメ）だとしたら、月の民は天津神の――」"
+      ],
+      "translated_lines": [
+        "神奈子「嗯——，是探女（佐具卖）的话，月之民就是天津神的——」"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "　　そう言って神奈子は一人で考え始めた。"
+      ],
+      "translated_lines": [
+        "　　这样说着的神奈子开始一个人思考。"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "　　どうやら、月の民は神々の系譜にある者達ではないかと言うのだ。"
+      ],
+      "translated_lines": [
+        "　　怎么看，月之民们不都是众神的系谱中的成员们吗。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　その者達が渋々とは言え、地上に降り立とうとしていた。"
+      ],
+      "translated_lines": [
+        "　　那些成员们虽然很不甘情愿，也是打算要降临到地上的。"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "　　これは天孫降臨の再来なのでは無いか。"
+      ],
+      "translated_lines": [
+        "　　这难道不是再一次的天孙降临吗。"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "　　それを無自覚とはいえ、早苗が阻止したと言うのなら",
+        "　　土着の神として称賛に値するだろう。"
+      ],
+      "translated_lines": [
+        "　　尽管是毫无自觉的，但是早苗将这种事态阻止了的话",
+        "　　作为土著神已经值得被称赞了吧。"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　やっぱりこの子は持っている、と神奈子は思った。"
+      ],
+      "translated_lines": [
+        "　　果然这孩子是拥有着的，神奈子这样想道。"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "　　Ending　No.05　　国津神の資格"
+      ],
+      "translated_lines": [
+        "　　Ending　No.05　　国津神的资格"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "　　　　　完全無欠モードorノーミスクリアエンディング"
+      ],
+      "translated_lines": [
+        "　　　　　完美无缺模式or无miss通关结局"
+      ]
+    }
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/e04.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　魔理沙の家。"
+      ],
+      "translated_lines": [
+        "　　魔理沙的家。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　幻想郷の中でも穢れに満ち満ちた魔法の森にある。"
+      ],
+      "translated_lines": [
+        "　　位于即使是在幻想乡中也是满溢着相当多污秽的魔法之森。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "鈴仙　「え？　作戦失敗したんですか？」"
+      ],
+      "translated_lines": [
+        "铃仙　「诶？作战失败了吗？」"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "魔理沙「失敗というか"
+      ],
+      "translated_lines": [
+        "魔理沙「说是失败不如说"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　　　……そもそもどういう作戦か良く判らんかったし」"
+      ],
+      "translated_lines": [
+        "　　　　……明明原本就不太清楚是什么样的作战嘛」"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "鈴仙　「月の兎たちを追い返す作戦です。"
+      ],
+      "translated_lines": [
+        "铃仙　「是为了把月兔们赶回去的作战。"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "　　　　そのくらい判ってたんでしょ？"
+      ],
+      "translated_lines": [
+        "　　　　这种程度你应该可以理解吧？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　　　貴方に頼んだのが間違いだったわ」"
+      ],
+      "translated_lines": [
+        "　　　　拜托你来做真是找错了人啊」"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "魔理沙「そもそもなんで私に『紺珠の薬』を託したんだ？」"
+      ],
+      "translated_lines": [
+        "魔理沙「再说回来一开始为什么要托付给我「绀珠之药」呢？」"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "鈴仙　「貴方だけじゃ無いわよ。"
+      ],
+      "translated_lines": [
+        "铃仙　「不光是你一个哦。"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "　　　　他の人間にもあげたもの」"
+      ],
+      "translated_lines": [
+        "　　　　也给了其他的人类」"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "鈴仙　「でも、他の人間はそんな薬は使いたくない、ってさ。"
+      ],
+      "translated_lines": [
+        "铃仙　「但是，其他的人类都表示，不想使用这种药。"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "　　　　まあ、実際副作用があるかも知れないけど……」"
+      ],
+      "translated_lines": [
+        "　　　　嘛，虽然说实话大概可能会有副作用……」"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "魔理沙「あるのかよ」"
+      ],
+      "translated_lines": [
+        "魔理沙「居然有啊」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "鈴仙　「そんな訳で喜んで受け取ってくれたのはあんただけなのに、"
+      ],
+      "translated_lines": [
+        "铃仙　「因为如此当初就你一个人很高兴地收下了药，"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "　　　　そのあんたが失敗するなんて、失望したわ」"
+      ],
+      "translated_lines": [
+        "　　　　但是你这人竟然失败了，真是失望啊」"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "魔理沙「ちょっと待て」"
+      ],
+      "translated_lines": [
+        "魔理沙「稍微等等」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "魔理沙「確かに薬は受け取ったが、私は使っていない」"
+      ],
+      "translated_lines": [
+        "魔理沙「我确实收下了药，但是我没用那药」"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "鈴仙　「はあ？」"
+      ],
+      "translated_lines": [
+        "铃仙　「哈？」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "鈴仙　「使わないで、月の都に攻め込んで、",
+        "　　　　失敗して負け逃げてきたって言うの？」"
+      ],
+      "translated_lines": [
+        "铃仙　「你是说你没用药，攻入月之都，",
+        "　　　　然后又失败了夹着尾巴逃回来了？」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "魔理沙「逃げてきてはいない。最後まで突っ走った」"
+      ],
+      "translated_lines": [
+        "魔理沙「没有逃回来哦。我直到最后都是冲刺突进的」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "鈴仙　「喜んで薬を受け取ったじゃない。"
+      ],
+      "translated_lines": [
+        "铃仙　「你不是很高兴地收下了药嘛。"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "　　　　あれは何だったのよ！」"
+      ],
+      "translated_lines": [
+        "　　　　那又是怎么一回事啊！」"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "魔理沙「ほら、珍しい物を手に入れたからな。"
+      ],
+      "translated_lines": [
+        "魔理沙「你看，因为这是收下了珍贵的东西啊。"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "　　　　貴重品としてコレクションに入れたんだ。"
+      ],
+      "translated_lines": [
+        "　　　　我想把它作为贵重品加入我的收藏啦。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　　　勿体なくて使えんよ」"
+      ],
+      "translated_lines": [
+        "　　　　用了的话多可惜啊」"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "鈴仙　「はぁあ、お師匠様、人間は全滅です。"
+      ],
+      "translated_lines": [
+        "铃仙　「唉唉唉，师傅大人，人类组全灭了。"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "　　　　こりゃ話になりません。"
+      ],
+      "translated_lines": [
+        "　　　　这样子成不了事了啊。"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "　　　　もう、私が行くしかないようです……」"
+      ],
+      "translated_lines": [
+        "　　　　看来，只能让我去了……」"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "魔理沙「何だ、お前が行けるのなら最初から",
+        "　　　　お前が行けよ」"
+      ],
+      "translated_lines": [
+        "魔理沙「什么啊，你要是能去的话从一开始",
+        "　　　　你就去啊」"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "鈴仙　「私だって薬を使うの嫌だしー！」"
+      ],
+      "translated_lines": [
+        "铃仙　「因为我也讨厌吃药的嘛——！」"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "　　魔理沙は、月の都で起きたことの全ては話さなかった。"
+      ],
+      "translated_lines": [
+        "　　魔理沙她，在月之都发生的事情全都没说出来。"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "　　どうにも理解できない事もあったし、何より鈴仙に騙された、",
+        "　　と思っていたからだ。"
+      ],
+      "translated_lines": [
+        "　　一方面是有着怎样都无法理解的事情，一方面更是因为她认为",
+        "　　自己被铃仙欺骗了。"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "　　しかし、彼女に会ってみてどうやらそうでは無かったと気付いた。"
+      ],
+      "translated_lines": [
+        "　　但是，和她见面以后察觉到了那是不可能的。"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "　　彼女も真実は知らない様である。"
+      ],
+      "translated_lines": [
+        "　　铃仙看起来也不知道真相的样子。"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "　　薬を使わなかった事は正解だったと思った。"
+      ],
+      "translated_lines": [
+        "　　魔理沙认为没有使用药是正确的。"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "　　真実を知っている奴は、薬を作った永琳ただ一人だからだ。"
+      ],
+      "translated_lines": [
+        "　　因为知道真相的人，仅仅只有制作了药的永琳一个人而已。"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "　　そんな不気味な作戦に乗りたくはなかった。"
+      ],
+      "translated_lines": [
+        "　　她才不想卷入那种令人毛骨悚然的作战。"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "　　Ending　No.04　　月の兎の決意"
+      ],
+      "translated_lines": [
+        "　　Ending　No.04　　月兔的决意"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "　　　　　自力クリアエンディング"
+      ],
+      "translated_lines": [
+        "　　　　　靠自己的力量通关的结局"
+      ]
+    }
+  }
+}

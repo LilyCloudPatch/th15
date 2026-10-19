@@ -1,0 +1,443 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st05b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "ちょっと情報を整理しよう"
+      ],
+      "translated_lines": [
+        "稍微来把情报整理一下"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "月の都は凍結状態だったが"
+      ],
+      "translated_lines": [
+        "月之都被冰封住了"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "それはさっきの奴か誰かが",
+        "防御のためにやったとして"
+      ],
+      "translated_lines": [
+        "不知道是刚才那家伙还是谁",
+        "为了防御而这么做的"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "それとは別に月の都を侵略している",
+        "奴がいるって言ってたな"
+      ],
+      "translated_lines": [
+        "不过和我说的话却是有什么东西",
+        "要来侵略月之都的吧"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "それも、月の民には手が出せない",
+        "方法で侵略されている、って……"
+      ],
+      "translated_lines": [
+        "而且，还是以让月之民毫无回击之力的",
+        "方法侵略，的……"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "つまり私を使って月の都を",
+        "救おう、って事なのか？"
+      ],
+      "translated_lines": [
+        "也就是说，要靠我来",
+        "拯救月之都吗？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "|229,10,あいつ",
+        "総合すると、どうやら最初から永琳に",
+        "担がれていたみたいだな……"
+      ],
+      "translated_lines": [
+        "|213,9,那家伙",
+        "综合以上，看来最开始应该是永琳",
+        "甩过来的任务吧……"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "松明を浴びた妖精達を",
+        "抜けてくるなんて"
+      ],
+      "translated_lines": [
+        "竟然能从那么多被火炬",
+        "照过的妖精中穿过来"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "中々やるじゃ無い"
+      ],
+      "translated_lines": [
+        "有两下子嘛"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "誰だお前"
+      ],
+      "translated_lines": [
+        "你谁啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "あたいは地獄の妖精",
+        "クラウンピース！"
+      ],
+      "translated_lines": [
+        "我是地狱的妖精",
+        "克劳恩皮丝"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "この大地を友人様に戴いてから",
+        "貴方が初めての来客だわー！"
+      ],
+      "translated_lines": [
+        "我从朋友大人那里得到这片土地之后",
+        "你是第一位访客哦！ "
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "妖精か……月の民はこんな奴に",
+        "手を焼いているとはな"
+      ],
+      "translated_lines": [
+        "妖精吗……月之民居然为这种家伙",
+        "而束手无策吗"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "おや、あたいを怖がらない？"
+      ],
+      "translated_lines": [
+        "哦呀，不怕我吗？"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "あ、そうだ",
+        "友人様に言いつかってるんだった"
+      ],
+      "translated_lines": [
+        "啊，对了",
+        "朋友大人和我说过的"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "月の都から出てくる奴があったら",
+        "何をしても良いって"
+      ],
+      "translated_lines": [
+        "要是有人从月之都出来的话",
+        "随怎么对待都可以的说"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "月の民が言う敵とは",
+        "お前だと言う事は判った"
+      ],
+      "translated_lines": [
+        "看来月之民所说的",
+        "敌人就是你了"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "さくっと倒して報告するか"
+      ],
+      "translated_lines": [
+        "赶快打倒了回去报告吧"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "月の都を救えば",
+        "幻想郷も救われる筈だ"
+      ],
+      "translated_lines": [
+        "要是能救下月之都的话",
+        "幻想乡也应该能救得了"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "あれー",
+        "あたいが怖くないのかな？"
+      ],
+      "translated_lines": [
+        "咦——",
+        "不怕我吗？"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "いや、月の民なら",
+        "あたいの存在が怖いはずだ"
+      ],
+      "translated_lines": [
+        "不，要是月之民的话",
+        "应该是惧怕我的存在的"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "もうどうなっても良いよね",
+        "穢れて地獄に堕ちてしまえ！"
+      ],
+      "translated_lines": [
+        "怎样都好啦",
+        "污秽地掉进地狱去吧！"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "はあはあはあ"
+      ],
+      "translated_lines": [
+        "哈…哈…哈…"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "な、なんで……？"
+      ],
+      "translated_lines": [
+        "为，为什么……？"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "生命の象徴である我々妖精族が",
+        "ここを支配している限り"
+      ],
+      "translated_lines": [
+        "我听说只要我等象征着生命的",
+        "妖精族还支配着这里"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "月の民は手も足も出せないって",
+        "聞いたのに"
+      ],
+      "translated_lines": [
+        "月之民就根本",
+        "不可能会动手的啊"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "それはだなぁ"
+      ],
+      "translated_lines": [
+        "那是因为啊"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "私が月の民じゃ無いからだろうな"
+      ],
+      "translated_lines": [
+        "我根本不是月之民嘛"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "あんた……いや、貴方様は",
+        "もしかして地上人！？"
+      ],
+      "translated_lines": [
+        "你这家伙……不，阁下",
+        "难道是地上人！？"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "そうだ",
+        "地面に這い蹲って生きているぜ"
+      ],
+      "translated_lines": [
+        "没错",
+        "趴在地面上生活的哦"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "何で地上人がこんな所に……？",
+        "話が違うわ"
+      ],
+      "translated_lines": [
+        "为什么地上人会在这里……？",
+        "和说好的不一样啊"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "ところで、何でお前ら妖精の所為で",
+        "月の民が手出せないんだか判らん"
+      ],
+      "translated_lines": [
+        "不过说来，对于你们妖精的所作所为",
+        "我不明白为什么月之民不能还手"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "月の民は生死を拒絶するからね"
+      ],
+      "translated_lines": [
+        "因为月之民拒绝生死"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "生まれる事、死ぬ事",
+        "それは穢れるという事"
+      ],
+      "translated_lines": [
+        "出生，还有死亡",
+        "也就是污秽的意思"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "我々は生命エネルギーの塊だから",
+        "月の民は触れたくないのよ"
+      ],
+      "translated_lines": [
+        "我等是生命能量的集合",
+        "月之民不想接触啦"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "人間だって死ぬぞ？"
+      ],
+      "translated_lines": [
+        "人类也是会死的啊？"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "勿論、普段は完全に拒絶するような",
+        "ことは無いんだけれど"
+      ],
+      "translated_lines": [
+        "当然，普通程度的话是不会",
+        "完全拒绝的"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "|40,16,・・",
+        "今は純化して貰ってるからね",
+        "友人様の力で"
+      ],
+      "translated_lines": [
+        "现在是因为从朋友大人那里",
+        "|54,16,··",
+        "获得了纯化的力量"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "ちょっと触れただけで穢れて",
+        "嫌なんじゃない？　月の民的に"
+      ],
+      "translated_lines": [
+        "稍微接触一点就会变得污秽的话",
+        "肯定很讨厌的吧？就月之民而言"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "……幾つか判らんが"
+      ],
+      "translated_lines": [
+        "……虽然还有几点不明白"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "お前が月の都を侵略している",
+        "真犯人って訳では無さそうだ"
+      ],
+      "translated_lines": [
+        "看来你并不是侵略",
+        "月之都的真正犯人"
+      ]
+    },
+    "text-041": {
+      "original_lines": [
+        "裏でお前を利用している奴が",
+        "いるって事は明白だな"
+      ],
+      "translated_lines": [
+        "是有人在背后利用你这件事",
+        "我是明白了"
+      ]
+    },
+    "text-042": {
+      "original_lines": [
+        "……私みたいにな"
+      ],
+      "translated_lines": [
+        "……就像我一样"
+      ]
+    },
+    "text-043": {
+      "original_lines": [
+        "きゃはははは！",
+        "面白い事が起こっているわー！"
+      ],
+      "translated_lines": [
+        "呀啊啊啊啊！",
+        "发生有趣的事情了！"
+      ]
+    },
+    "text-044": {
+      "original_lines": [
+        "妖精達よ、もっとスピード",
+        "あげていこうよ！"
+      ],
+      "translated_lines": [
+        "妖精们啊",
+        "速度快一点！"
+      ]
+    },
+    "text-045": {
+      "original_lines": [
+        "イッツ、ルナティックターイム！",
+        "　　狂気の世界へようこそ！"
+      ],
+      "translated_lines": [
+        "　　　It's lunatic time!",
+        "　　　欢迎来到狂野的世界！　　　"
+      ]
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st02a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "ここがさっきの月の兎の",
+        "基地なのかな"
+      ],
+      "translated_lines": [
+        "这里就是刚才那只月兔的",
+        "基地吗"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "お待ちしておりましたー"
+      ],
+      "translated_lines": [
+        "我等了好久了—"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "清蘭から話を聞いたわ",
+        "面白い奴と交戦したって……"
+      ],
+      "translated_lines": [
+        "我从清兰那里听说了",
+        "说是和一个有趣的家伙交战了……"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "あれ？",
+        "あんた見た事がある気が"
+      ],
+      "translated_lines": [
+        "咦？",
+        "我怎么感觉见过你"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "私はあんたなんか知らないわ"
+      ],
+      "translated_lines": [
+        "我并不知道你是谁"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "昔、月の都に来た事あるでしょ？"
+      ],
+      "translated_lines": [
+        "你以前来过月都吧？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "ま、まあね"
+      ],
+      "translated_lines": [
+        "是、是啊"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "そりゃ面白いや",
+        "手加減無しで遊べそうね！"
+      ],
+      "translated_lines": [
+        "那还真是有趣",
+        "看来我可以毫不留情地玩一场了！"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "|56,16,ミス",
+        "一回の被弾でも許されない",
+        "|5,10,ルナティック",
+        "月の流儀に度肝を抜くが良い！"
+      ],
+      "translated_lines": [
+        "|40,11,失误",
+        "一次中弹也不被允许",
+        "|69,9,L u n a t i c",
+        "你就被这月上传统吓破胆子吧！"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "まだ始まったばかりなのに",
+        "ちょっとは手加減して欲しいもんだわ"
+      ],
+      "translated_lines": [
+        "才刚刚开始啊",
+        "稍微手下留情一点不行吗"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "ああ、地上にもずいぶんと",
+        "強い奴がいたもんね"
+      ],
+      "translated_lines": [
+        "啊，地上也还真有",
+        "厉害的家伙"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "食べ物も色々あるし",
+        "私も地上に生まれたかったわぁ"
+      ],
+      "translated_lines": [
+        "食物还这么多",
+        "我也想生在地上啊"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "えーっと",
+        "今ってどういう状況なのかしら"
+      ],
+      "translated_lines": [
+        "呃，现在是什么情况"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "我々は幻想郷を浄化しに",
+        "来たんだけど"
+      ],
+      "translated_lines": [
+        "我们是来净化",
+        "幻想乡的"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "|54,12,したっぱ",
+        "我々、月の兎にとっては",
+        "どうでもいい話"
+      ],
+      "translated_lines": [
+        "|85,10,小角色",
+        "但对于我们月兔来说",
+        "其实怎样都好"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "はあ"
+      ],
+      "translated_lines": [
+        "哈啊"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "行ってみて自分で",
+        "判断するといいわ"
+      ],
+      "translated_lines": [
+        "你自己去看看",
+        "然后自己判断就行了"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "|37,10,ルナティックキングダム",
+        "いざ　月　の　都　へ！"
+      ],
+      "translated_lines": [
+        "|103,10,Lunatic Kingdom",
+        "走吧，去那　月　之　都　吧！"
+      ]
+    }
+  }
+}
