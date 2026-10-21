@@ -1,0 +1,259 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st03b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "さっきまで湖に居た筈だが……",
+        "何だここは"
+      ],
+      "translated_lines": [
+        "明明我刚才还在湖上……",
+        "这是哪儿啊"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "あらあら"
+      ],
+      "translated_lines": [
+        "哎呀哎呀"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "幻想郷の魔法使いね",
+        "今日はどんな夢を……"
+      ],
+      "translated_lines": [
+        "幻想乡的魔法使啊",
+        "今天又做了什么梦……"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "って生身！？",
+        "もしかして生身！？"
+      ],
+      "translated_lines": [
+        "等等是真身！？",
+        "难道是真身！？"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "まだ生身だが"
+      ],
+      "translated_lines": [
+        "现在还是真身"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "生身でこんな夢の世界へ",
+        "飛び込んでくるなんて"
+      ],
+      "translated_lines": [
+        "真身跳进这种",
+        "梦境里来"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "何かの罠に嵌められたのかな"
+      ],
+      "translated_lines": [
+        "是中了什么陷阱吗"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "罠だって？",
+        "やっぱり罠だったのか"
+      ],
+      "translated_lines": [
+        "陷阱？",
+        "还真是陷阱啊"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "すぐ目の前にあんな大きな月が",
+        "見えているというのに"
+      ],
+      "translated_lines": [
+        "明明眼前能看见",
+        "那么大一个月亮"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "月が見えている？",
+        "ははぁんそういう事ね"
+      ],
+      "translated_lines": [
+        "能看见月亮？",
+        "呵呵这么回事啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "良いでしょう",
+        "その狂夢、私が処理しましょう"
+      ],
+      "translated_lines": [
+        "很好",
+        "那个狂梦，就请由我来处理吧"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "今は眠りなさい",
+        "|52,8,かいあん",
+        "貴方の槐安は今作られる"
+      ],
+      "translated_lines": [
+        "现在，睡吧",
+        "|52,8,",
+        "属于您的槐安，即将建成"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "あらあら、眠らないのです？"
+      ],
+      "translated_lines": [
+        "哎呀哎呀，不睡吗?"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "それではいつまで経っても",
+        "夢の中ですよ"
+      ],
+      "translated_lines": [
+        "这样的话不管到什么时候",
+        "您也只能在梦里"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "んー、夢の中なのか",
+        "ここは"
+      ],
+      "translated_lines": [
+        "唔，是梦里吗",
+        "这里"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "そうですよ",
+        "貴方は今、夢の中に生身で居るのです"
+      ],
+      "translated_lines": [
+        "是的",
+        "您现在，以真身位于梦中"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "月の都に行くって話は",
+        "一体どうなっちまったんだ……"
+      ],
+      "translated_lines": [
+        "去月都这事儿",
+        "又怎么样了……"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "確かに貴方の夢は月の都に",
+        "向かってるようです"
+      ],
+      "translated_lines": [
+        "您看起来确实是在向着月都",
+        "前进"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "そのままなら",
+        "もうすぐ到着するでしょう"
+      ],
+      "translated_lines": [
+        "这样下去的话",
+        "马上就要到达了吧"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "そうか",
+        "それなら良いんだ"
+      ],
+      "translated_lines": [
+        "是吗",
+        "那就行"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "ですがその悪夢を覚まさないというのは",
+        "お薦めできませんが……"
+      ],
+      "translated_lines": [
+        "但是我并不推荐您",
+        "不从那个噩梦中醒来……"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "夢は現実以上に精神を侵します",
+        "不自然に用意された夢は危険です"
+      ],
+      "translated_lines": [
+        "梦比现实更易侵蚀人的精神",
+        "准备得不自然的梦是危险的"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "前みたいに学校の怪談の夢とか見ていた方が",
+        "精神的には良いんですけどねぇ"
+      ],
+      "translated_lines": [
+        "像之前那样做学校怪谈的梦",
+        "对精神反倒是好的了"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "なっ"
+      ],
+      "translated_lines": [
+        "什么"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "夢は具現化するんですよ",
+        "貴方も体感したんじゃ無いですか？"
+      ],
+      "translated_lines": [
+        "梦是会具现化的",
+        "您也有过亲身体会吧？"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "|4,9,オカルトボール",
+        "都市伝説で、ね"
+      ],
+      "translated_lines": [
+        "|37,22,神秘珠",
+        "通过都市传说"
+      ]
+    }
+  }
+}

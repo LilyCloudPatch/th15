@@ -1,0 +1,221 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st03a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "月があんなに近くに……"
+      ],
+      "translated_lines": [
+        "月是如此的近……"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "誰かと思いきや"
+      ],
+      "translated_lines": [
+        "我说是谁啊"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "幻想郷の巫女じゃないの"
+      ],
+      "translated_lines": [
+        "这不是幻想乡的巫女嘛"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "強い悪夢を見ているのねぇ",
+        "……って"
+      ],
+      "translated_lines": [
+        "看来在做很强烈的噩梦啊",
+        "……等等"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "生身！？",
+        "もしかして生身！？"
+      ],
+      "translated_lines": [
+        "真身！？",
+        "难道是真身！？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "えーっと",
+        "生身かな？"
+      ],
+      "translated_lines": [
+        "呃——",
+        "是真身吧？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "生身でこんな夢の世界へ",
+        "飛び込んでくるなんて"
+      ],
+      "translated_lines": [
+        "真身跳进这种",
+        "梦境来"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "何かの罠に嵌められたのかな"
+      ],
+      "translated_lines": [
+        "是中了什么陷阱吗"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "わ、罠だって？",
+        "私は月の都に向かって……"
+      ],
+      "translated_lines": [
+        "陷、陷阱？",
+        "我在向月都……"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "月の都……",
+        "ははぁんそういう事ね"
+      ],
+      "translated_lines": [
+        "月都……",
+        "哈哈这样子啊"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "良いでしょう",
+        "その狂夢、私が処理しましょう"
+      ],
+      "translated_lines": [
+        "好的",
+        "那个狂梦，就请由我来处理吧"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "今は眠りなさい",
+        "|52,8,かいあん",
+        "貴方の槐安は今作られる"
+      ],
+      "translated_lines": [
+        "现在，睡吧",
+        "|52,8,",
+        "属于您的槐安，即将建成"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "ここまでの悪夢",
+        "全て処理させて頂きました"
+      ],
+      "translated_lines": [
+        "到此为止的噩梦",
+        "已经全部被我处理了"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "肉体を乗っ取りかねない",
+        "強い精神を持っているのですね"
+      ],
+      "translated_lines": [
+        "看来您有着一副极强的精神",
+        "以至于肉体容易被轻松夺取"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "あんたは何者なの？"
+      ],
+      "translated_lines": [
+        "你是什么人？"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "|36,8,バク",
+        "私は獏",
+        "夢の世界の住人です"
+      ],
+      "translated_lines": [
+        "|36,8,",
+        "我是貘",
+        "梦境的居民"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "貴方は月の都に向かうと",
+        "言ってましたね、しかも生身で"
+      ],
+      "translated_lines": [
+        "您刚刚说您要去月都吧",
+        "而且要凭着您的肉体"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "そこでは今までのとは比べものにならない",
+        "悪夢が待ち受けている事でしょう"
+      ],
+      "translated_lines": [
+        "在那里，等待着您的",
+        "将会是前所未有的噩梦"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "それは狂夢（ルナティックドリーム）と",
+        "呼ぶべきものです"
+      ],
+      "translated_lines": [
+        "那，可以被称之为",
+        "狂梦（Lunatic Dream）"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "十分覚悟せよ",
+        "|6,12,うつしよ",
+        "現し世から夢を見ている人間よ"
+      ],
+      "translated_lines": [
+        "请做好足够的觉悟",
+        "|6,12,",
+        "在现世做着梦的人啊"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "……よく判らないけど"
+      ],
+      "translated_lines": [
+        "……我不太明白"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "夢の世界を介して月の都と幻想郷が",
+        "繋がっていたって事なのかしら？"
+      ],
+      "translated_lines": [
+        "月都和幻想乡",
+        "是通过梦境相连的吗？"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st01b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何か見慣れない奴が",
+        "ウロチョロしてるな"
+      ],
+      "translated_lines": [
+        "怎么有一群没怎么见过的家伙",
+        "在四处晃悠"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "しょうがないから",
+        "撃つぞ！"
+      ],
+      "translated_lines": [
+        "没办法",
+        "我要打你了！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "『こちら清蘭",
+        "　好戦的な地上人と接触した』"
+      ],
+      "translated_lines": [
+        "『这里是清兰",
+        "　与好战的地上人产生了接触』"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "『これから浄化活動に入る』"
+      ],
+      "translated_lines": [
+        "『现在开始执行净化行动』"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "何だお前",
+        "誰と話しているんだ？"
+      ],
+      "translated_lines": [
+        "你谁啊",
+        "跟谁说话呢？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "答える必要は無い"
+      ],
+      "translated_lines": [
+        "我没有回答你的必要"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "お前はもうすぐ消滅するん",
+        "だからな！"
+      ],
+      "translated_lines": [
+        "因为你马上就要",
+        "消失了！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "地上人強いじゃーん",
+        "やだー"
+      ],
+      "translated_lines": [
+        "地上人好强啊—",
+        "讨厌—"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "ジャンケンで負けた私が",
+        "運が無かったんだけど"
+      ],
+      "translated_lines": [
+        "也只能怪我运气不好",
+        "猜拳输了"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "地上人って言い方、もしかして",
+        "お前、月の兎じゃないか？"
+      ],
+      "translated_lines": [
+        "地上人这种叫法，莫非",
+        "你是月兔？"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "そうよ",
+        "地上を浄化する命を受けて来たの"
+      ],
+      "translated_lines": [
+        "没错",
+        "我受命来净化地面"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "ははあ、それであの永琳が",
+        "私達に仕事を依頼してきたのか"
+      ],
+      "translated_lines": [
+        "原来如此，所以那个永琳",
+        "才会委托我们做这种事啊"
+      ]
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st02d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "うーん、上の方から",
+        "懐かしい風を感じるわ"
+      ],
+      "translated_lines": [
+        "唔，从上方",
+        "能感受到令人怀念的风"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "裏切ったって",
+        "マジですか？"
+      ],
+      "translated_lines": [
+        "听说你背叛了",
+        "是真的吗？"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "月の兎同士で争うだなんて"
+      ],
+      "translated_lines": [
+        "同为月兔，何必相互争斗"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "まあね",
+        "これも命令だけどねー"
+      ],
+      "translated_lines": [
+        "没办法",
+        "这也是命令啊—"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "貴方も大変ねぇ",
+        "地上に行ったって仕事仕事"
+      ],
+      "translated_lines": [
+        "你也真是不容易",
+        "都到地面了还是工作工作"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "私達、兎の労働条件は",
+        "一向に向上しないしねー"
+      ],
+      "translated_lines": [
+        "我们兔子的劳动条件",
+        "真是永远得不到提升"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "でね、私のミッションは",
+        "都に潜入する必要があるの"
+      ],
+      "translated_lines": [
+        "总之，我的任务",
+        "需要我潜入到都城里面"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "まあそんな訳で、ちょっと",
+        "通路使わせてよ"
+      ],
+      "translated_lines": [
+        "就这样，你就让我",
+        "稍微用下通道吧"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "はいどうぞ、ってそんな訳に",
+        "いかないでしょ？"
+      ],
+      "translated_lines": [
+        "请，你觉得我会",
+        "这样说吗？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "裏切り者は排除しろと",
+        "就業規則に書いてあるしね"
+      ],
+      "translated_lines": [
+        "就业规则上都写了",
+        "叛徒需要被除掉"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "地上の環境は過酷だけど",
+        "変化があってまあまあ楽しめるわよ"
+      ],
+      "translated_lines": [
+        "地面的环境虽然糟糕",
+        "但是变化多多，还是很有趣的"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "まあ、住めば都ってね"
+      ],
+      "translated_lines": [
+        "俗话说久居则安嘛"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "そう、私も地上に住みたいなー"
+      ],
+      "translated_lines": [
+        "是啊，我也好想住在地上啊"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "仕事も何もかもかなぐり捨てて"
+      ],
+      "translated_lines": [
+        "把工作之类的全部丢到一边"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "さてさて久々に月の都に",
+        "潜入するとしますか"
+      ],
+      "translated_lines": [
+        "那么就久违地",
+        "潜入到月都去吧"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "そうそう、一つだけ忠告しておくわ"
+      ],
+      "translated_lines": [
+        "对对，我忠告你一件事情"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "今、月の都は一人の狂人によって",
+        "おかしくなり始めている"
+      ],
+      "translated_lines": [
+        "如今，月都因一个狂人",
+        "而开始变得奇怪"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "昔の極楽浄土はもう",
+        "見る影も無いと思ってね"
+      ],
+      "translated_lines": [
+        "你只要记住",
+        "过去的极乐净土已经无影无踪了"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "ほほう……"
+      ],
+      "translated_lines": [
+        "是吗……"
+      ]
+    }
+  }
+}

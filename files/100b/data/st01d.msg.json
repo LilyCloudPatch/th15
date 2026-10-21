@@ -1,0 +1,119 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st01d.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "ついにこの時が来たのね"
+      ],
+      "translated_lines": [
+        "这个时刻终于到来了"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "あらあら"
+      ],
+      "translated_lines": [
+        "哎呀哎呀"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "お久しぶりー！",
+        "元気してたー？"
+      ],
+      "translated_lines": [
+        "好久不见—！",
+        "你还好吗—？"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "随分と派手に攻撃されたけどね"
+      ],
+      "translated_lines": [
+        "倒是被盛大地攻击了一通"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "まあこれも仕事なの",
+        "判るでしょ？"
+      ],
+      "translated_lines": [
+        "哎呀这毕竟是工作",
+        "你也懂吧？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "だからここで大人しく",
+        "やられて、ね？"
+      ],
+      "translated_lines": [
+        "所以你就在这里乖乖",
+        "被我干掉，好吧？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "え？",
+        "何で私がやられてるの？"
+      ],
+      "translated_lines": [
+        "咦？",
+        "为什么我被干掉了？"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "残念ながら私は",
+        "地上の兎になったのよ"
+      ],
+      "translated_lines": [
+        "可惜，我已经变成了",
+        "地上的兔子"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "つまり貴方は私の敵……",
+        "いや、貴方じゃ無くてその上に居る"
+      ],
+      "translated_lines": [
+        "也就是说你是我的敌人……",
+        "不，敌人不是你，是你上面的人"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "『メーデーメーデー！",
+        "　緊急事態発生！』"
+      ],
+      "translated_lines": [
+        "『Mayday Mayday！",
+        "　发生紧急事态！』"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "そうそう、テレパシーでみんなに",
+        "報告すると良いわ"
+      ],
+      "translated_lines": [
+        "对对，你就用心灵感应",
+        "告诉所有人吧"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "自分勝手な月の兎にね"
+      ],
+      "translated_lines": [
+        "告诉那些任性的月兔"
+      ]
+    }
+  }
+}

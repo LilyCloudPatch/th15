@@ -1,0 +1,137 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st01a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何これ",
+        "いつもの激しさではないわ"
+      ],
+      "translated_lines": [
+        "这是什么",
+        "激烈程度和以往不可同日而语啊"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "邪魔しなくても",
+        "撃つぞ！"
+      ],
+      "translated_lines": [
+        "你不碍事",
+        "我也要打你了！"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "『こちら清蘭",
+        "　好戦的な地上人と接触した』"
+      ],
+      "translated_lines": [
+        "『这里是清兰",
+        "　与好战的地上人产生了接触』"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "『これから浄化活動に入る』"
+      ],
+      "translated_lines": [
+        "『现在开始执行净化行动』"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "独り言？",
+        "気持ち悪"
+      ],
+      "translated_lines": [
+        "自言自语？",
+        "恶心"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "残念だったな",
+        "穢れ多き地上人よ"
+      ],
+      "translated_lines": [
+        "真遗憾",
+        "污秽多多的地上人"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "|69,10,このち",
+        "もうすぐ地上は",
+        "浄化されるのだ！"
+      ],
+      "translated_lines": [
+        "|40,16,此地",
+        "很快地面",
+        "就将被净化了！"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "ぐうう",
+        "だから現地部隊は嫌だったのにー"
+      ],
+      "translated_lines": [
+        "呜呜呜",
+        "所以我才讨厌走在前线"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "あんた、もしかして",
+        "月の兎じゃないの？"
+      ],
+      "translated_lines": [
+        "莫非",
+        "你是月兔？"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "地上を浄化するって……",
+        "もの凄く嫌な予感がする"
+      ],
+      "translated_lines": [
+        "净化地面……",
+        "有种极其不祥的预感"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "あんたらの拠点を教えなさい！",
+        "さもないと……"
+      ],
+      "translated_lines": [
+        "把你们的据点告诉我！",
+        "否则……"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "勘弁してください－",
+        "教えたら殺されるわー！"
+      ],
+      "translated_lines": [
+        "请饶了我吧—",
+        "我要告诉你就要被杀了—！"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "山の湖に前線基地があるなんて",
+        "教えたら殺されるわー！"
+      ],
+      "translated_lines": [
+        "如果把前线基地在山里湖边的事情告诉你",
+        "我就要被杀了—！"
+      ]
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/e03.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "　　魔理沙の家。"
+      ],
+      "translated_lines": [
+        "　　魔理沙的家。"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "　　幻想郷の中でも穢れに満ち満ちた魔法の森にある。"
+      ],
+      "translated_lines": [
+        "　　位于即使是在幻想乡中也是满溢着相当多污秽的魔法之森。"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "魔理沙「いやー、生きているのが不思議だぜー。"
+      ],
+      "translated_lines": [
+        "魔理沙「哎呀——，还活着真是不可思议啊——"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "　　　　月の都にはヤバイ敵がいるんだな。"
+      ],
+      "translated_lines": [
+        "　　　　月之都真是有着不得了的敌人啊。"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "　　　　私のお陰で月の都は救われたみたいだが……」"
+      ],
+      "translated_lines": [
+        "　　　　虽然看起来好像托我的福拯救了月之都……」"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "魔理沙「どうやら私は、最初から月の民の駒でしか無かった",
+        "　　　　っぽいのが腹立たしいぜ」"
+      ],
+      "translated_lines": [
+        "魔理沙「好像我，从一开始就只是月之民的一枚棋子啊",
+        "　　　　这样子真是让人火大啊」"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "魔理沙「でもあのサグメって奴から重要なことが聞けたな。"
+      ],
+      "translated_lines": [
+        "魔理沙「但是从那个叫探女的家伙那听到了重要的事情啊。"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "　　　　都市伝説が具現化する世界になったのは、"
+      ],
+      "translated_lines": [
+        "　　　　变成了都市传说会具现化的世界这种事，"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "　　　　あいつの力って事だ」"
+      ],
+      "translated_lines": [
+        "　　　　都是那家伙的力量」"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "魔理沙「この月の都のパワーストーン。"
+      ],
+      "translated_lines": [
+        "魔理沙「这个月之都的力量石。"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "　　　　オカルトボールに混じっていたのを取っておいて良かったぜ。"
+      ],
+      "translated_lines": [
+        "　　　　混在神秘珠里面能从中找出来真是太好了。"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "　　　　これが幻想郷を混乱に陥れるレベルの力を持っているとはな」"
+      ],
+      "translated_lines": [
+        "　　　　这玩意可是拥有着能让幻想乡陷入混乱的级别的力量啊」"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "紫　　「お邪魔かしらー」"
+      ],
+      "translated_lines": [
+        "紫　　「打扰了——」"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "魔理沙「わあビックリした！　突然現われるなよ」"
+      ],
+      "translated_lines": [
+        "魔理沙「哇啊吓我一跳！别突然就凭空出现啊」"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "紫　　「月の都に行ってきたんでしょ？」"
+      ],
+      "translated_lines": [
+        "紫　　「你去了月之都了吧？」"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "魔理沙「ん、ああ。月の都を救ってきたぜ」"
+      ],
+      "translated_lines": [
+        "魔理沙「嗯，啊啊。还救了月之都哦」"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "紫　　「あら、素敵。スーパーヒーローね」"
+      ],
+      "translated_lines": [
+        "紫　　「啊啦，真棒。超级英雄呢」"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "魔理沙「ヒロインだ。何の用だ？」"
+      ],
+      "translated_lines": [
+        "魔理沙「是女英雄。你有啥事吗？」"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "紫　　「そのパワーストーン。ちょっと見せて」"
+      ],
+      "translated_lines": [
+        "紫　　「那个力量石。稍微给我看看」"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "魔理沙「あ、やっぱり回収して、破壊するとか言うのか？」"
+      ],
+      "translated_lines": [
+        "魔理沙「啊，果然要回收，然后破坏掉吗？」"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "紫　　「とおんでもない。こんな貴重な物を…何でそんな事思うの？」"
+      ],
+      "translated_lines": [
+        "紫　　「哪~里的事。把这样贵重的东西给……你为何会那么想？」"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "魔理沙「だって、これは都市伝説を具現化させる危険なアイテムだし。"
+      ],
+      "translated_lines": [
+        "魔理沙「因为，这明明是会具现化都市传说的危险的道具嘛。"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "　　　　現に幻想郷が混乱に陥っている訳で」"
+      ],
+      "translated_lines": [
+        "　　　　而且现在已经让幻想乡陷入混乱了吧」"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "紫　　「何言ってるのよ、この程度で混乱なんかしてないわよ」"
+      ],
+      "translated_lines": [
+        "紫　　「你在说什么啊，这种程度才不算混乱哦」"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "紫　　「むしろ、色んな情報と妖力を戴いてラッキーじゃない。"
+      ],
+      "translated_lines": [
+        "紫　　「倒不如说，从这石头能够得到各种情报和妖力不是很走运吗。"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "　　　　もっともっと幻想郷は変化出来るわよ」"
+      ],
+      "translated_lines": [
+        "　　　　会让幻想乡越来越变化多端哦」"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "魔理沙「何だ？　お前の考え方らしくないな」"
+      ],
+      "translated_lines": [
+        "魔理沙「什么？这可不像是你的思维方式啊」"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "魔理沙「てっきり、結界を守り変化を拒む奴だと思っていたが……」"
+      ],
+      "translated_lines": [
+        "魔理沙「我明明，还很深信不疑地认为你是个守护结界拒绝变化的家伙呢……」"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "紫　　「うふふふ、そうでしたっけ？"
+      ],
+      "translated_lines": [
+        "紫　　「哦呵呵呵，是那样吗？"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "　　　　それで、このパワーストーンを創った人には会ったの？」"
+      ],
+      "translated_lines": [
+        "　　　　还有啊，你遇到创造这个力量石的人了吗？」"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "魔理沙「あ、ああ……」"
+      ],
+      "translated_lines": [
+        "魔理沙「啊，有啊……」"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "紫　　「さっすがー、そいつとの繋がりを大切にしてね。"
+      ],
+      "translated_lines": [
+        "紫　　「真不愧是你——，要重视和那家伙的联系哦。"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "　　　　いやはや、忙しくて忙しくて嬉しいわー」"
+      ],
+      "translated_lines": [
+        "　　　　哎呀哎呀，这么忙来忙去的真是开心啊——」"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "　　紫の考えが読めない魔理沙は終始押されっぱなしだった。"
+      ],
+      "translated_lines": [
+        "　　无法了解紫的想法的魔理沙始终都在被言语压制着。"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "　　結局、パワーストーンには手を付けずに消えていった。"
+      ],
+      "translated_lines": [
+        "　　结果，力量石还没在手里焐热就消失了。"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "　　紫は幻想郷の変化と言っていたが、何の為に紫が現われたのか。"
+      ],
+      "translated_lines": [
+        "　　虽然紫说了幻想乡的变化，但是紫又是为了什么而出现的呢。"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "　　魔理沙は思う。"
+      ],
+      "translated_lines": [
+        "　　魔理沙思考着。"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "　　紫の目的は幻想郷を守る事である。"
+      ],
+      "translated_lines": [
+        "　　紫的目的是守护幻想乡。"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "　　だがその為に、外の世界や月の都などに侵攻するのも厭わない、",
+        "　　という話じゃないだろうか。"
+      ],
+      "translated_lines": [
+        "　　但是为此，就算是侵略外面世界或者月之都也在所不惜，",
+        "　　不会是这么回事吧。"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "　　まさかと思いつつも、想像して背筋に冷たい物が流れた。"
+      ],
+      "translated_lines": [
+        "　　一边想着怎么可能啊，但是一边光是想像那种情况都觉得背上开始冒冷汗了。"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "　　Ending　No.03　　月の都の遺産"
+      ],
+      "translated_lines": [
+        "　　Ending　No.03　　月之都的遗产"
+      ]
+    },
+    "text-041": {
+      "original_lines": [
+        "　　　　　オールクリアおめでとう！"
+      ],
+      "translated_lines": [
+        "　　　　　恭喜全部通关！"
+      ]
+    },
+    "text-042": {
+      "original_lines": [
+        "　　　　　完全無欠モードorノーミスクリアエンディング"
+      ],
+      "translated_lines": [
+        "　　　　　完美无缺模式or无miss通关结局"
+      ]
+    }
+  }
+}

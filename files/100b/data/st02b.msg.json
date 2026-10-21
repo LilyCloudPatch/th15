@@ -1,0 +1,181 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st02b.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "何だか妖精の攻撃が",
+        "いつもより激しいな"
+      ],
+      "translated_lines": [
+        "怎么感觉妖精的攻击",
+        "比以往要激烈得多"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "こりゃあ素直に永琳の言う事を",
+        "聞いた方が良さそうだな"
+      ],
+      "translated_lines": [
+        "这样子还是",
+        "好好听永琳说的话比较好"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "お待ちしておりましたー"
+      ],
+      "translated_lines": [
+        "我等了好久了—"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "清蘭から話を聞いたわ",
+        "面白い奴と交戦したって……"
+      ],
+      "translated_lines": [
+        "我从清兰那里听说了",
+        "说是和一个有趣的家伙交战了……"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "お前も月の兎だな？"
+      ],
+      "translated_lines": [
+        "你也是月兔吧？"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "永琳から聞いてたぜ",
+        "月から攻めてくる奴がいるって"
+      ],
+      "translated_lines": [
+        "我从永琳那儿听说了",
+        "有人从月亮上打过来了"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "そうねぇ",
+        "でもまあ攻めにきたって言うか"
+      ],
+      "translated_lines": [
+        "是啊",
+        "不过与其说是打过来"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "|8,16,・・",
+        "浄化しに来たんだけど"
+      ],
+      "translated_lines": [
+        "|87,16,··",
+        "不如说是来净化的"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "まあいいや",
+        "さっさと仕事して休憩しようかな"
+      ],
+      "translated_lines": [
+        "不过算了",
+        "早点把活干完早点休息"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "ミスの許される地上人には",
+        "我々の苦労は判らないよねー"
+      ],
+      "translated_lines": [
+        "能够容忍失误的地上人",
+        "一定不会懂我们的辛酸吧"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "あら強い"
+      ],
+      "translated_lines": [
+        "哎呀好强"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "おおう、いきなり激しいな",
+        "こりゃ先が思いやられるぜ"
+      ],
+      "translated_lines": [
+        "哎哟，刚上来就挺猛",
+        "这下前途多舛啊"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "これからどうするつもり？"
+      ],
+      "translated_lines": [
+        "你接下来打算怎么办？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "え？",
+        "意味が判らんな"
+      ],
+      "translated_lines": [
+        "啥？",
+        "不懂你的意思"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "だって地上はもうすぐ",
+        "浄化される筈だし……"
+      ],
+      "translated_lines": [
+        "因为地面应该",
+        "马上就要被净化了……"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "私は月の都の侵略を阻止しよう",
+        "と思うだけだが"
+      ],
+      "translated_lines": [
+        "我只是想阻止月都的侵略",
+        "而已"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "それだけ強いのなら",
+        "行ってみるといいわ"
+      ],
+      "translated_lines": [
+        "如果你有那么强",
+        "那你就动身吧"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "狂った極楽浄土",
+        "|5,10,ルナティックキングダム",
+        "　月　の　都　へ"
+      ],
+      "translated_lines": [
+        "前往疯狂的极乐净土",
+        "|39,10,Lunatic Kingdom",
+        "那　月　之　都　！"
+      ]
+    }
+  }
+}

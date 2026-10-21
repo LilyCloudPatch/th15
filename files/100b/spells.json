@@ -1,0 +1,487 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "lilypatch/th15/spells",
+  "entries": {
+    "name-000": {
+      "original_lines": [
+        "「アポロ捏造説」"
+      ],
+      "translated_lines": [
+        "「阿波罗捏造说」"
+      ]
+    },
+    "name-001": {
+      "original_lines": [
+        "「トリニタリアンラプソディ」"
+      ],
+      "translated_lines": [
+        "「三位一体论狂想曲」"
+      ]
+    },
+    "name-002": {
+      "original_lines": [
+        "「フェイクアポロ」"
+      ],
+      "translated_lines": [
+        "「伪阿波罗」"
+      ]
+    },
+    "name-003": {
+      "original_lines": [
+        "「人を殺める為の純粋な弾幕」"
+      ],
+      "translated_lines": [
+        "「用于杀人的纯粹弹幕」"
+      ]
+    },
+    "name-004": {
+      "original_lines": [
+        "「原始の神霊界」"
+      ],
+      "translated_lines": [
+        "「原始的神灵界」"
+      ]
+    },
+    "name-005": {
+      "original_lines": [
+        "「地上穢の純化」"
+      ],
+      "translated_lines": [
+        "「地上秽的纯化」"
+      ]
+    },
+    "name-006": {
+      "original_lines": [
+        "「掌の純光」"
+      ],
+      "translated_lines": [
+        "「掌上的纯光」"
+      ]
+    },
+    "name-007": {
+      "original_lines": [
+        "「最初で最後の無名の弾幕」"
+      ],
+      "translated_lines": [
+        "「最初与最后的无名弹幕」"
+      ]
+    },
+    "name-008": {
+      "original_lines": [
+        "「殺意の百合」"
+      ],
+      "translated_lines": [
+        "「杀意的百合」"
+      ]
+    },
+    "name-009": {
+      "original_lines": [
+        "「溢れ出る瑕穢」"
+      ],
+      "translated_lines": [
+        "「溢出的瑕秽」"
+      ]
+    },
+    "name-010": {
+      "original_lines": [
+        "「片翼の白鷺」"
+      ],
+      "translated_lines": [
+        "「孤翼的白鹭」"
+      ]
+    },
+    "name-011": {
+      "original_lines": [
+        "「現代の神霊界」"
+      ],
+      "translated_lines": [
+        "「现代的神灵界」"
+      ]
+    },
+    "name-012": {
+      "original_lines": [
+        "「純粋なる狂気」"
+      ],
+      "translated_lines": [
+        "「纯粹的疯狂」"
+      ]
+    },
+    "name-013": {
+      "original_lines": [
+        "「袋の鼠を追い詰める為の単純な弾幕」"
+      ],
+      "translated_lines": [
+        "「用于逼死瓮中鼠的单纯弹幕」"
+      ]
+    },
+    "name-014": {
+      "original_lines": [
+        "「震え凍える星」"
+      ],
+      "translated_lines": [
+        "「战栗的寒冷之星」"
+      ]
+    },
+    "name-015": {
+      "original_lines": [
+        "兎符「ストロベリーダンゴ」"
+      ],
+      "translated_lines": [
+        "兔符「草莓团子」"
+      ]
+    },
+    "name-016": {
+      "original_lines": [
+        "兎符「ダンゴインフリューエンス」"
+      ],
+      "translated_lines": [
+        "兔符「团子影响力」"
+      ]
+    },
+    "name-017": {
+      "original_lines": [
+        "兎符「ベリーベリーダンゴ」"
+      ],
+      "translated_lines": [
+        "兔符「浆果浆果团子」"
+      ]
+    },
+    "name-018": {
+      "original_lines": [
+        "凶弾「スピードストライク」"
+      ],
+      "translated_lines": [
+        "凶弹「高速撞击」"
+      ]
+    },
+    "name-019": {
+      "original_lines": [
+        "地獄「ストライプドアビス」"
+      ],
+      "translated_lines": [
+        "地狱「条纹状的深渊」"
+      ]
+    },
+    "name-020": {
+      "original_lines": [
+        "地球「地獄に降る雨」"
+      ],
+      "translated_lines": [
+        "地球「落向地狱的雨」"
+      ]
+    },
+    "name-021": {
+      "original_lines": [
+        "地球「邪穢在身」"
+      ],
+      "translated_lines": [
+        "地球「邪秽在身」"
+      ]
+    },
+    "name-022": {
+      "original_lines": [
+        "夢符「ドリームキャッチャー」"
+      ],
+      "translated_lines": [
+        "梦符「捕梦网」"
+      ]
+    },
+    "name-023": {
+      "original_lines": [
+        "夢符「刈安色の迷夢」"
+      ],
+      "translated_lines": [
+        "梦符「刈安色的迷梦」"
+      ]
+    },
+    "name-024": {
+      "original_lines": [
+        "夢符「刈安色の錯綜迷夢」"
+      ],
+      "translated_lines": [
+        "梦符「刈安色的错综迷梦」"
+      ]
+    },
+    "name-025": {
+      "original_lines": [
+        "夢符「夢我夢中」"
+      ],
+      "translated_lines": [
+        "梦符「梦我梦中」"
+      ]
+    },
+    "name-026": {
+      "original_lines": [
+        "夢符「愁永遠の夢」"
+      ],
+      "translated_lines": [
+        "梦符「愁永远之梦」"
+      ]
+    },
+    "name-027": {
+      "original_lines": [
+        "夢符「緋色の圧迫悪夢」"
+      ],
+      "translated_lines": [
+        "梦符「绯红色的压迫噩梦」"
+      ]
+    },
+    "name-028": {
+      "original_lines": [
+        "夢符「緋色の悪夢」"
+      ],
+      "translated_lines": [
+        "梦符「绯红色的噩梦」"
+      ]
+    },
+    "name-029": {
+      "original_lines": [
+        "夢符「蒼色のドリームキャッチャー」"
+      ],
+      "translated_lines": [
+        "梦符「苍蓝色的捕梦网」"
+      ]
+    },
+    "name-030": {
+      "original_lines": [
+        "夢符「藍色の愁三重夢」"
+      ],
+      "translated_lines": [
+        "梦符「蔚蓝色的愁三重梦」"
+      ]
+    },
+    "name-031": {
+      "original_lines": [
+        "夢符「藍色の愁夢」"
+      ],
+      "translated_lines": [
+        "梦符「蔚蓝色的愁梦」"
+      ]
+    },
+    "name-032": {
+      "original_lines": [
+        "弾符「イーグルシューティング」"
+      ],
+      "translated_lines": [
+        "弹符「射鹰」"
+      ]
+    },
+    "name-033": {
+      "original_lines": [
+        "弾符「鷹は撃ち抜いた」"
+      ],
+      "translated_lines": [
+        "弹符「鹰已击中」"
+      ]
+    },
+    "name-034": {
+      "original_lines": [
+        "月「アポロ反射鏡」"
+      ],
+      "translated_lines": [
+        "月「阿波罗反射镜」"
+      ]
+    },
+    "name-035": {
+      "original_lines": [
+        "月「ルナティックインパクト」"
+      ],
+      "translated_lines": [
+        "月「月狂冲击」"
+      ]
+    },
+    "name-036": {
+      "original_lines": [
+        "月符「紺色の狂夢」"
+      ],
+      "translated_lines": [
+        "月符「绀色的狂梦」"
+      ]
+    },
+    "name-037": {
+      "original_lines": [
+        "月見「セプテンバーフルムーン」"
+      ],
+      "translated_lines": [
+        "赏月「九月的满月」"
+      ]
+    },
+    "name-038": {
+      "original_lines": [
+        "月見酒「ルナティックセプテンバー」"
+      ],
+      "translated_lines": [
+        "赏月酒「月狂的九月」"
+      ]
+    },
+    "name-039": {
+      "original_lines": [
+        "獄炎「かすりの獄意」"
+      ],
+      "translated_lines": [
+        "狱炎「擦弹的狱意」"
+      ]
+    },
+    "name-040": {
+      "original_lines": [
+        "獄炎「グレイズインフェルノ」"
+      ],
+      "translated_lines": [
+        "狱炎「擦弹地狱火」"
+      ]
+    },
+    "name-041": {
+      "original_lines": [
+        "獄符「スターアンドストライプ」"
+      ],
+      "translated_lines": [
+        "狱符「星与条纹」"
+      ]
+    },
+    "name-042": {
+      "original_lines": [
+        "獄符「フラッシュアンドストライプ」"
+      ],
+      "translated_lines": [
+        "狱符「闪光与条纹」"
+      ]
+    },
+    "name-043": {
+      "original_lines": [
+        "獄符「ヘルエクリプス」"
+      ],
+      "translated_lines": [
+        "狱符「地狱月食」"
+      ]
+    },
+    "name-044": {
+      "original_lines": [
+        "獄符「地獄の蝕」"
+      ],
+      "translated_lines": [
+        "狱符「地狱之蚀」"
+      ]
+    },
+    "name-045": {
+      "original_lines": [
+        "玉符「烏合の二重呪」"
+      ],
+      "translated_lines": [
+        "玉符「乌合的二重咒」"
+      ]
+    },
+    "name-046": {
+      "original_lines": [
+        "玉符「烏合の呪」"
+      ],
+      "translated_lines": [
+        "玉符「乌合之咒」"
+      ]
+    },
+    "name-047": {
+      "original_lines": [
+        "玉符「烏合の逆呪」"
+      ],
+      "translated_lines": [
+        "玉符「乌合的逆咒」"
+      ]
+    },
+    "name-048": {
+      "original_lines": [
+        "玉符「神々の光り輝く弾冠」"
+      ],
+      "translated_lines": [
+        "玉符「众神的光辉弹冠」"
+      ]
+    },
+    "name-049": {
+      "original_lines": [
+        "玉符「神々の弾冠」"
+      ],
+      "translated_lines": [
+        "玉符「众神的弹冠」"
+      ]
+    },
+    "name-050": {
+      "original_lines": [
+        "玉符「穢身探知型機雷　改」"
+      ],
+      "translated_lines": [
+        "玉符「秽身探知型水雷　改」"
+      ]
+    },
+    "name-051": {
+      "original_lines": [
+        "玉符「穢身探知型機雷」"
+      ],
+      "translated_lines": [
+        "玉符「秽身探知型水雷」"
+      ]
+    },
+    "name-052": {
+      "original_lines": [
+        "異界「地獄のノンイデアル弾幕」"
+      ],
+      "translated_lines": [
+        "异界「地狱的非理想弹幕」"
+      ]
+    },
+    "name-053": {
+      "original_lines": [
+        "異界「逢魔ガ刻」"
+      ],
+      "translated_lines": [
+        "异界「逢魔之刻」"
+      ]
+    },
+    "name-054": {
+      "original_lines": [
+        "純符「ピュアリーバレットヘル」"
+      ],
+      "translated_lines": [
+        "纯符「单纯的子弹地狱」"
+      ]
+    },
+    "name-055": {
+      "original_lines": [
+        "純符「純粋な弾幕地獄」"
+      ],
+      "translated_lines": [
+        "纯符「纯粹的弹幕地狱」"
+      ]
+    },
+    "name-056": {
+      "original_lines": [
+        "胡蝶「バタフライサプランテーション」"
+      ],
+      "translated_lines": [
+        "蝴蝶「取而代之的蝴蝶」"
+      ]
+    },
+    "name-057": {
+      "original_lines": [
+        "超特急「ドリームエクスプレス」"
+      ],
+      "translated_lines": [
+        "超特急「梦幻快车」"
+      ]
+    },
+    "name-058": {
+      "original_lines": [
+        "這夢「クリーピングバレット」"
+      ],
+      "translated_lines": [
+        "爬梦「爬行的子弹」"
+      ]
+    },
+    "name-059": {
+      "original_lines": [
+        "銃符「ルナティックガン」"
+      ],
+      "translated_lines": [
+        "铳符「月狂之枪」"
+      ]
+    }
+  }
+}

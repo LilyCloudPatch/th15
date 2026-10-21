@@ -1,0 +1,387 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th15_100b",
+  "resource": "data/st04a.msg",
+  "entries": {
+    "text-000": {
+      "original_lines": [
+        "これが月の都……？"
+      ],
+      "translated_lines": [
+        "这里是月之都……？"
+      ]
+    },
+    "text-001": {
+      "original_lines": [
+        "昔に来た時と随分様子が違うわね"
+      ],
+      "translated_lines": [
+        "和以前来看到的相比简直天翻地覆啊"
+      ]
+    },
+    "text-002": {
+      "original_lines": [
+        "何というか都ごと",
+        "凍り付いたかのようだわ"
+      ],
+      "translated_lines": [
+        "怎么形容才好呢",
+        "整个都城都好像被冻结了一样"
+      ]
+    },
+    "text-003": {
+      "original_lines": [
+        "…………"
+      ],
+      "translated_lines": [
+        "…………"
+      ]
+    },
+    "text-004": {
+      "original_lines": [
+        "えーっと"
+      ],
+      "translated_lines": [
+        "呃，我说"
+      ]
+    },
+    "text-005": {
+      "original_lines": [
+        "……ほう、人間？"
+      ],
+      "translated_lines": [
+        "……嚯，人类？"
+      ]
+    },
+    "text-006": {
+      "original_lines": [
+        "……"
+      ],
+      "translated_lines": [
+        "……"
+      ]
+    },
+    "text-007": {
+      "original_lines": [
+        "しゃべらんのかい！"
+      ],
+      "translated_lines": [
+        "你这不是会说话吗！"
+      ]
+    },
+    "text-008": {
+      "original_lines": [
+        "月の都が何でこうなっているのか",
+        "判らないけど"
+      ],
+      "translated_lines": [
+        "月之都怎么成了这副模样",
+        "我虽然不知道"
+      ]
+    },
+    "text-009": {
+      "original_lines": [
+        "どうせあんたが幻想郷への侵略を",
+        "指揮してるんでしょ？"
+      ],
+      "translated_lines": [
+        "反正侵略幻想乡",
+        "是你指挥的吧？"
+      ]
+    },
+    "text-010": {
+      "original_lines": [
+        "ふむ、それはそうだけど……"
+      ],
+      "translated_lines": [
+        "哼，虽然确实是……"
+      ]
+    },
+    "text-011": {
+      "original_lines": [
+        "自白した",
+        "簡単に自白した"
+      ],
+      "translated_lines": [
+        "承认了啊",
+        "这么简单就承认了啊"
+      ]
+    },
+    "text-012": {
+      "original_lines": [
+        "……貴方の役目は一体？"
+      ],
+      "translated_lines": [
+        "……你的任务到底是什么？"
+      ]
+    },
+    "text-013": {
+      "original_lines": [
+        "……おっと",
+        "余り喋っては作戦が失敗する"
+      ],
+      "translated_lines": [
+        "……啊不好",
+        "说得太多作战就要失败了"
+      ]
+    },
+    "text-014": {
+      "original_lines": [
+        "……"
+      ],
+      "translated_lines": [
+        "……"
+      ]
+    },
+    "text-015": {
+      "original_lines": [
+        "また黙るのね",
+        "まあいいわ、私のとる行動は一つしか無い"
+      ],
+      "translated_lines": [
+        "又不肯开口了啊",
+        "不过算了，本来我也只有一条路要走"
+      ]
+    },
+    "text-016": {
+      "original_lines": [
+        "異変を解決する為に",
+        "あんたを倒す！"
+      ],
+      "translated_lines": [
+        "那就是为了解决异变",
+        "把你打败！"
+      ]
+    },
+    "text-017": {
+      "original_lines": [
+        "貴方が送り込まれた理由が",
+        "判ったわ"
+      ],
+      "translated_lines": [
+        "你被送进来的理由",
+        "我明白了"
+      ]
+    },
+    "text-018": {
+      "original_lines": [
+        "きっと八意様の差し金ね"
+      ],
+      "translated_lines": [
+        "你一定是八意大人派遣来的"
+      ]
+    },
+    "text-019": {
+      "original_lines": [
+        "そんなに強いんですもの",
+        "貴方ならきっと……"
+      ],
+      "translated_lines": [
+        "既然这么强大",
+        "你一定能……"
+      ]
+    },
+    "text-020": {
+      "original_lines": [
+        "攻撃したら急に喋るように",
+        "なったわね"
+      ],
+      "translated_lines": [
+        "被揍了之后突然就",
+        "变得能说会道了呢"
+      ]
+    },
+    "text-021": {
+      "original_lines": [
+        "私はサグメ"
+      ],
+      "translated_lines": [
+        "我是佐具卖（探女）"
+      ]
+    },
+    "text-022": {
+      "original_lines": [
+        "言葉で世界を方向変換させる",
+        "力を持っているの"
+      ],
+      "translated_lines": [
+        "我拥有仅凭言语便能",
+        "让世界的走向改变的力量"
+      ]
+    },
+    "text-023": {
+      "original_lines": [
+        "だから上手くいってるときには",
+        "余り喋ってはいけないのよ"
+      ],
+      "translated_lines": [
+        "所以事态顺利发展的时候",
+        "我绝不可以多说一句"
+      ]
+    },
+    "text-024": {
+      "original_lines": [
+        "口は禍の元ってね"
+      ],
+      "translated_lines": [
+        "正所谓祸从口出呢"
+      ]
+    },
+    "text-025": {
+      "original_lines": [
+        "へー、でも急に喋り出したって事は"
+      ],
+      "translated_lines": [
+        "咦，那你还一口气说了这么多"
+      ]
+    },
+    "text-026": {
+      "original_lines": [
+        "これから破滅的な手段にて",
+        "新しい展開が始まるでしょう"
+      ],
+      "translated_lines": [
+        "现在，凭借这毁灭性的手段",
+        "事态会向全新的方向进展吧"
+      ]
+    },
+    "text-027": {
+      "original_lines": [
+        "私は貴方に乗るわ",
+        "破壊者は貴方になる"
+      ],
+      "translated_lines": [
+        "我要借助你的手去推进事态",
+        "你将会成为破坏者"
+      ]
+    },
+    "text-028": {
+      "original_lines": [
+        "はい？"
+      ],
+      "translated_lines": [
+        "什么？"
+      ]
+    },
+    "text-029": {
+      "original_lines": [
+        "幻想郷に攻めてきたのは",
+        "貴方達でしょ？　破壊者は貴方達じゃ"
+      ],
+      "translated_lines": [
+        "攻击幻想乡的",
+        "是你们吧？ 破坏者明明是你们才对"
+      ]
+    },
+    "text-030": {
+      "original_lines": [
+        "本当に侵略を受けているのは",
+        "月の都なの"
+      ],
+      "translated_lines": [
+        "真正在遭受侵略的",
+        "是月之都"
+      ]
+    },
+    "text-031": {
+      "original_lines": [
+        "それも我々月の民には",
+        "手が出せない方法で"
+      ],
+      "translated_lines": [
+        "而且我等月之民对那种手段",
+        "毫无回击之力"
+      ]
+    },
+    "text-032": {
+      "original_lines": [
+        "全滅を回避する為に",
+        "幻想郷への移住を検討していたの"
+      ],
+      "translated_lines": [
+        "为了避免全灭的结局",
+        "我们正在考虑移居幻想乡"
+      ]
+    },
+    "text-033": {
+      "original_lines": [
+        "もっとも、月の民達はそんなこと",
+        "知らないのですが"
+      ],
+      "translated_lines": [
+        "当然，月之民们",
+        "并不会知道真相"
+      ]
+    },
+    "text-034": {
+      "original_lines": [
+        "月の都が侵略されて",
+        "それで幻想郷を侵略？"
+      ],
+      "translated_lines": [
+        "月之都被侵略了",
+        "所以来侵略幻想乡？"
+      ]
+    },
+    "text-035": {
+      "original_lines": [
+        "とんだご都合主義ね"
+      ],
+      "translated_lines": [
+        "这什么投机主义啊"
+      ]
+    },
+    "text-036": {
+      "original_lines": [
+        "ですが、その運命もたった今",
+        "逆転し始めた"
+      ],
+      "translated_lines": [
+        "然而，那样的命运也在这一瞬间",
+        "开始逆转了"
+      ]
+    },
+    "text-037": {
+      "original_lines": [
+        "幻想郷への移住は",
+        "成功しないでしょう"
+      ],
+      "translated_lines": [
+        "移居幻想乡",
+        "已经不可能实现了吧"
+      ]
+    },
+    "text-038": {
+      "original_lines": [
+        "その代わり、地上人である貴方が",
+        "月の都を救うのです！"
+      ],
+      "translated_lines": [
+        "取而代之，现在要由身为地上之人的你",
+        "来拯救月之都！"
+      ]
+    },
+    "text-039": {
+      "original_lines": [
+        "|88,16,・・・・・",
+        "さあ、私が口にするわ",
+        "もう貴方は運命から逃れられないわよ"
+      ],
+      "translated_lines": [
+        "|38,16,····",
+        "看，从我口中说出了这件事",
+        "你已经不可能逃离这份命运了"
+      ]
+    },
+    "text-040": {
+      "original_lines": [
+        "運命は逆転し始めた",
+        "いざ敵の本拠地、静かの海に向かえ！"
+      ],
+      "translated_lines": [
+        "命运已经开始逆转",
+        "向敌人的根据地，静海进发吧！"
+      ]
+    }
+  }
+}
